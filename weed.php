@@ -9,7 +9,7 @@
                         <div class="overlay-image"></div>
                         <div class="banner-title">
                             <div class="page-title-heading">
-                                Tree Care
+                                weed control
                             </div>
                             <div class="page-title-content link-style6">
                                 <span><a class="home" href="index.php">Home</a></span><span class="page-title-content-inner">Tree Care</span>
