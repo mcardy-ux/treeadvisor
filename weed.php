@@ -12,7 +12,7 @@
                                 weed control
                             </div>
                             <div class="page-title-content link-style6">
-                                <span><a class="home" href="index.php">Home</a></span><span class="page-title-content-inner">Tree Care</span>
+                                <span><a class="home" href="index.php">Home</a></span><span class="page-title-content-inner">weed control</span>
                             </div>
                         </div>
                     </div>
@@ -35,7 +35,7 @@
                             <div class="content-blog-detail">
                                 <div class="image-box">
                                     <div class="image">
-                                        <img src="images/blog/tree1.jpg" alt="image">
+                                        <img src="images/blog/weed1.jpg" alt="image">
                                     </div>
                                 </div>
                                 <div class="content mg-top-15">
@@ -46,65 +46,47 @@
 								</a></span>
                                     <div class="heading-content-box">
                                         <a href="#">
-                                        Why Not to Attempt Tree Removal on Your Own
+                                        LAWN CARE
 								</a></div>
-                                <h5 class="content-2 heading-content-box" style="color:#348e38 !important;">REASONS FOR PRUNING</h5>
+                                <h5 class="content-2 heading-content-box" style="color:#348e38 !important;">Spot-Control Weeds</h5>
 
                                     <p class="desc-content-box text-decs">
-                                        Trees are beautiful and can be an asset to many properties. However, there are many times when trees can decline and become hazardous and become a 
-                                        liability or are no longer wanted due to other reasons.
-                                        Considered both an art and a science, <a href="#" style="color:#95B2CA !important;"><strong>pruning</strong></a> has changed dramatically over the last 30 to 40 years. 
-                                        There are many valid reasons for <a href="#" style="color:#95B2CA !important;"><strong>pruning</strong></a> or 
-                                        <a href="#" style="color:#95B2CA !important;"><strong>removing trees and shrubs</strong></a>. However, 
-                                        the most important reasons are for safety, health, and appearance.
+                                        Another basic pro lawn secret is to stay on top of weed growth. After all, 
+                                        it’s a whole lot easier to keep a lawn looking nice by spot-controlling weeds than it is to try to rescue a lawn that has already been overtaken by them. 
+                                        A simple way to spot-treat weeds is with a spot weed control product for lawns. With it, you simply spray weeds like dandelion and clover, 
+                                        killing them before they have a chance to bloom and spread more weed seeds all over the place. (Don’t worry—it won’t harm your lawn.) Check the label for your lawn type, 
+                                        and as with any product, be sure to follow directions.
                                     </p>
-                                    <div class="content-note-author">
-                                        <p class="desc-content-box text-decs">
-                                        Trees are a long-term investment for property owners and managers and like any other investment, trees require effort to keep their value. Not taking the time to hire a reputable tree service may create greater problems in the future and be more costly in the long run. For example, storm damage cleanup is extremely dangerous, even for professionals!
-                                        </p>
-                                        <a href="#" class="author heading-16px-rubik">
-                                        Why hire a certified arborist?
-                                    </a>
 
-                                    </div>
-                                    
                                     <div class="image-box">
                                         <div class="image-2">
-                                            <img src="images/blog/tree2.jpg" alt="image">
+                                            <img src="images/blog/weed2.jpg" alt="image">
                                         </div>
-                                    </div>
-                                    <h5 class="content-2 heading-content-box" style="color:#348e38 !important;">Homeowners</h5>
-                                    <p class="desc-content-box text-decs">
-                                        
-                                        Do not use a chainsaw if you are not experienced in operating it or if you are not physically fit. If you must use a chainsaw, seek training, work only on the ground, and always use the proper personal protective equipment.
-                                        <br><br>
-                                        <ul class="nav-access-blog-detail">
-                                            <li><a href="#" class="tick">
-                                            Never do any tree work that involves falling trees, climbing of any kind, or using ladders and/or ropes
-                                            </a></li>
-                                            <li><a href="#" class="tick">
-                                            Never cut above shoulder height. If you have to hold the saw higher than your shoulder, the branches are too high, and you should not be using a chainsaw.
-                                            </a></li>
-                                            <li><a href="#" class="tick">
-                                            Professional tree workers are required by law to use the Personal Protective Equipment (PPE)
-                                            </a></li>
-                                            <li><a href="#" class="tick">
-                                            Homeowners should wear the same protection as the professional or NOT do the work at all!
-                                            </a></li>
-                                            <li><a href="#" class="tick">
-                                            Call a professional to handle all other situations.
-                                            </a></li>
-                                        </ul>
-            
 
-                                       
+                                    <p class="desc-content-box text-decs">
+                                            <strong>So we compiled a list of some of the very best Spot Weed Control products for your lawn currently available:</strong>
                                     </p>
+
+        
+                                    </div>
+                                    <h5 class="content-2 heading-content-box" style="color:#348e38 !important;">How to Prevent Weeds From Growing</h5>
+                                    <p class="desc-content-box text-decs">   
+                                        Annual grassy weeds, like crabgrass and foxtail, are easily stopped in spring, when the seeds and tiny seedlings are most vulnerable, so they don’t become a problem in summer. 
+                                        Applying a pre-emergent weed killer product eliminates weeds at the earliest stage of growth — before you even see them. Several key factors are important to consider if you want to use this type of weed killer effectively. 
+                                        Typical applications occur in early spring before warm season weeds appear and in autumn for cool season weeds. These preventative herbicides actually can be helpful throughout the majority of the growing season. 
+                                        Various weeds germinate at different times, so repeated applications of the correct chemical can eliminate the majority of the weeds in any lawn or yard.
+                                    </p>
+                                    <p class="desc-content-box text-decs">
+                                        A fall or winter application is necessary in some geographical areas. Locations that deal with annual bluegrass or annual ryegrass will want to get their lawn covered prior to the initial seasonal autumn/winter rains. 
+                                        In some southern climates, a winter application is necessary to protect against crabgrass as early as January or February.  A summer application can be helpful, even necessary, in those areas where certain weeds wait for the hot weather. 
+                                        Many spots need to be ready for a second onslaught by some early weeds that can reseed and grow the same season, like the ever-present dandelion.
+                                    </p> 
                                     <hr>
                                     <div class="bottom-content">
                                         <div class="related-tag">
                                             <h3 class="title heading-16px-rubik">Related Tags :</h3>
                                             <ul class="list-related">
-                                                <li><a href="#">Tree Care.</a></li>
+                                                <li><a href="#">weed control.</a></li>
                                                 <li><a href="#">Arborist.</a></li>
                                                 <li><a href="#">Agency</a></li>
                                             </ul>
