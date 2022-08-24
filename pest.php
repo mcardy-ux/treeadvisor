@@ -9,10 +9,10 @@
                         <div class="overlay-image"></div>
                         <div class="banner-title">
                             <div class="page-title-heading">
-                                pest control
+                                Pest control
                             </div>
                             <div class="page-title-content link-style6">
-                                <span><a class="home" href="index.php">Home</a></span><span class="page-title-content-inner">Tree Care</span>
+                                <span><a class="home" href="index.php">Home</a></span><span class="page-title-content-inner">Pest control</span>
                             </div>
                         </div>
                     </div>
@@ -46,65 +46,52 @@
 								</a></span>
                                     <div class="heading-content-box">
                                         <a href="#">
-                                        Why Not to Attempt Tree Removal on Your Own
+                                        PREVENTION IT’S THE BEST CURE
 								</a></div>
-                                <h5 class="content-2 heading-content-box" style="color:#348e38 !important;">REASONS FOR PRUNING</h5>
+                                <h5 class="content-2 heading-content-box" style="color:#348e38 !important;">Prevent Insect Damage</h5>
 
                                     <p class="desc-content-box text-decs">
-                                        Trees are beautiful and can be an asset to many properties. However, there are many times when trees can decline and become hazardous and become a 
-                                        liability or are no longer wanted due to other reasons.
-                                        Considered both an art and a science, <a href="#" style="color:#95B2CA !important;"><strong>pruning</strong></a> has changed dramatically over the last 30 to 40 years. 
-                                        There are many valid reasons for <a href="#" style="color:#95B2CA !important;"><strong>pruning</strong></a> or 
-                                        <a href="#" style="color:#95B2CA !important;"><strong>removing trees and shrubs</strong></a>. However, 
-                                        the most important reasons are for safety, health, and appearance.
+                                        The best way to control lawn pests is to identify them correctly, get to know their life cycles and symptoms,
+                                         and then treat them promptly and properly at optimal times.
                                     </p>
-                                    <div class="content-note-author">
-                                        <p class="desc-content-box text-decs">
-                                        Trees are a long-term investment for property owners and managers and like any other investment, trees require effort to keep their value. Not taking the time to hire a reputable tree service may create greater problems in the future and be more costly in the long run. For example, storm damage cleanup is extremely dangerous, even for professionals!
-                                        </p>
-                                        <a href="#" class="author heading-16px-rubik">
-                                        Why hire a certified arborist?
-                                    </a>
-
-                                    </div>
-                                    
+                                   
+                                    <p class="desc-content-box text-decs">
+                                        Common signs that pests have invaded your turf include brown spots, dead and dying grass patches, wilting blades, 
+                                        bite marks on grass, and, of course, insects in the grass or turf layer. 
+                                        Signs of underground pest damage include thin or missing roots and holes in the soil.
+                                    </p>
+                                
                                     <div class="image-box">
                                         <div class="image-2">
                                             <img src="images/blog/tree2.jpg" alt="image">
                                         </div>
                                     </div>
-                                    <h5 class="content-2 heading-content-box" style="color:#348e38 !important;">Homeowners</h5>
+                                    <h5 class="content-2 heading-content-box" style="color:#348e38 !important;">Effective Lawn Pest Control</h5>
                                     <p class="desc-content-box text-decs">
-                                        
-                                        Do not use a chainsaw if you are not experienced in operating it or if you are not physically fit. If you must use a chainsaw, seek training, work only on the ground, and always use the proper personal protective equipment.
-                                        <br><br>
-                                        <ul class="nav-access-blog-detail">
-                                            <li><a href="#" class="tick">
-                                            Never do any tree work that involves falling trees, climbing of any kind, or using ladders and/or ropes
-                                            </a></li>
-                                            <li><a href="#" class="tick">
-                                            Never cut above shoulder height. If you have to hold the saw higher than your shoulder, the branches are too high, and you should not be using a chainsaw.
-                                            </a></li>
-                                            <li><a href="#" class="tick">
-                                            Professional tree workers are required by law to use the Personal Protective Equipment (PPE)
-                                            </a></li>
-                                            <li><a href="#" class="tick">
-                                            Homeowners should wear the same protection as the professional or NOT do the work at all!
-                                            </a></li>
-                                            <li><a href="#" class="tick">
-                                            Call a professional to handle all other situations.
-                                            </a></li>
-                                        </ul>
-            
-
-                                       
+                                        Lawn pest damage often goes unnoticed and unchecked until major damage occurs. 
+                                        Fortunately, you can quickly and efficiently control and prevent pests such as cutworms, 
+                                        armyworms, sod webworms, grubs, and chinch bugs with the help of good insecticide.
+                                    </p>
+                                    <p class="desc-content-box text-decs">
+                                        Few things can lay waste to your beloved turf faster than grubs, and the pros know that prevention it’s the key, 
+                                        it’s crucial to catch them early, before they hatch. To keep grubs from growing in your lawn for up to 4 months, 
+                                        apply a insecticide as directed from spring to early summer.
+                                    </p>
+                                    <p class="desc-content-box text-decs">
+                                       <strong> Bonus:</strong> Grubs are a food source for moles and skunks, which are a close second to grubs when it comes to lawn destruction.
+                                        Take away the grubs and the moles will have less reason to hang out in your yard.
+                                    </p>
+                                    <p class="desc-content-box text-decs">
+                                        A pest-free lawn is a pleasant place for family and friends to gather and enjoy your outdoor spaces. 
+                                        Keep an eye out for these common turf nuisances and act promptly when they strike. 
+                                        With the help of lawn insecticides, you can control common lawn pests and stop them in their tracks.
                                     </p>
                                     <hr>
                                     <div class="bottom-content">
                                         <div class="related-tag">
                                             <h3 class="title heading-16px-rubik">Related Tags :</h3>
                                             <ul class="list-related">
-                                                <li><a href="#">Tree Care.</a></li>
+                                                <li><a href="#">pest Control.</a></li>
                                                 <li><a href="#">Arborist.</a></li>
                                                 <li><a href="#">Agency</a></li>
                                             </ul>
