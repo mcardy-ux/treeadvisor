@@ -35,7 +35,7 @@
                             <div class="content-blog-detail">
                                 <div class="image-box">
                                     <div class="image">
-                                        <img src="images/blog/tree1.jpg" alt="image">
+                                        <img src="images/blog/lawn1.jpg" alt="image">
                                     </div>
                                 </div>
                                 <div class="content mg-top-15">
@@ -46,39 +46,63 @@
 								</a></span>
                                     <div class="heading-content-box">
                                         <a href="#">
-                                        Why Not to Attempt Tree Removal on Your Own
+                                        Start Your Lawn Care Project Today
 								</a></div>
-                                <h5 class="content-2 heading-content-box" style="color:#348e38 !important;">REASONS FOR PRUNING</h5>
+                                <h5 class="content-2 heading-content-box" style="color:#348e38 !important;">MOW LIKE A PRO</h5>
+                                <p class="desc-content-box text-decs">
+                                        <strong> THE FIRST IS THE FIRST </strong> <br>
+                                    The single most important aspect of having a healthy lawn is to adopt proper mowing techniques.
+                                    Sometimes even pros they don’t know how to mow a lawn, they are doing it is because is just their job, not their passion.
+                                    Follow these simple rules to get it right.
+                                </p>
+                                <ul class="desc-content-box text-decs">
+                                    <li>• mowing height.</li>
+                                    <li>• mulching.</li>
+                                    <li>• The sharpness of your mower’s blade. </li>
+                                    <li>• Time of day.</li>
+                                    <li>• Frequency.</li>
+                                  </ul>
 
-                                    <p class="desc-content-box text-decs">
-                                        Trees are beautiful and can be an asset to many properties. However, there are many times when trees can decline and become hazardous and become a 
-                                        liability or are no longer wanted due to other reasons.
-                                        Considered both an art and a science, <a href="#" style="color:#95B2CA !important;"><strong>pruning</strong></a> has changed dramatically over the last 30 to 40 years. 
-                                        There are many valid reasons for <a href="#" style="color:#95B2CA !important;"><strong>pruning</strong></a> or 
-                                        <a href="#" style="color:#95B2CA !important;"><strong>removing trees and shrubs</strong></a>. However, 
-                                        the most important reasons are for safety, health, and appearance.
-                                    </p>
-                                    <div class="content-note-author">
+                                <br>
                                         <p class="desc-content-box text-decs">
-                                        Trees are a long-term investment for property owners and managers and like any other investment, trees require effort to keep their value. Not taking the time to hire a reputable tree service may create greater problems in the future and be more costly in the long run. For example, storm damage cleanup is extremely dangerous, even for professionals!
-                                        </p>
-                                        <a href="#" class="author heading-16px-rubik">
-                                        Why hire a certified arborist?
-                                    </a>
-
-                                    </div>
+                                            Proper lawn care takes a bit more effort than just lawn mowing.
+                                            You need to water, fertilize, seed and regularly aerate your lawn. 
+                                            </p>
+                                <br>
+                                        <p class="desc-content-box text-decs">
+                                            Lawns are an important component of many home landscapes. 
+                                            Good cultural practices are necessary to achieve a healthy, attractive lawn. 
+                                            One important cultural practice is fertilization. 
+                                            The benefits of a well-maintained lawn fertilization program are good turf color, quality and density.
+                                            </p>
+                                <br>
+                                        <p class="desc-content-box text-decs">
+                                            With the right plan, the right grass seeds for your region, appropriate lawn fertilizer and a dependable lawn mower, your grass will be healthy and thriving in no time. 
+                                            The two main types of turf grass are warm season grass and cool season grass. 
+                                            Pick the grass seed that matches the climate and your yard’s sun exposure. 
+                                            If you prefer to grow grass without the help of chemicals, we suggest organic lawn care solutions as well as artificial turf that never needs watering.
+                                            </p>
                                     
                                     <div class="image-box">
                                         <div class="image-2">
-                                            <img src="images/blog/tree2.jpg" alt="image">
+                                            <img src="images/blog/lawn2.jpg" alt="image">
                                         </div>
                                     </div>
-                                    <h5 class="content-2 heading-content-box" style="color:#348e38 !important;">Homeowners</h5>
+                                    <h5 class="content-2 heading-content-box" style="color:#348e38 !important;">Ready To Start Your Project?</h5>   
                                     <p class="desc-content-box text-decs">
-                                        
-                                        Do not use a chainsaw if you are not experienced in operating it or if you are not physically fit. If you must use a chainsaw, seek training, work only on the ground, and always use the proper personal protective equipment.
+                                        <strong> Find Pros Or DIY Lawn Care </strong>
+                                    <br>
+                                        <strong> Everything you need to know about maintaining your lawn </strong>
+                                    <br>
+                                        <strong> First buy a dependable lawn mower </strong>
+                                    <br>
+                                            There’s no doubt about it: a lawn mower is an investment.
+                                             Once you buy one, especially a pricier one, you’re kind of stuck with it unless you want to go through the hassle of trying to sell it if you don’t like it. 
+                                            There’s too many brands out there that you want to stay away from them that I don’t want to mention not to waste your time reading about it, instead I can recommend some good ones. 
+                                             This recommendation is for homeowner lawnmowers. I will do another article for commercial ones. Just remember, a mower is only as good as the weekly, monthly and annual maintenance you provide.
                                         <br><br>
-                                        <ul class="nav-access-blog-detail">
+                                       <!-- . no lo veo util pero no elimino el codigo por precaucion
+                                         / <ul class="nav-access-blog-detail">
                                             <li><a href="#" class="tick">
                                             Never do any tree work that involves falling trees, climbing of any kind, or using ladders and/or ropes
                                             </a></li>
@@ -94,7 +118,7 @@
                                             <li><a href="#" class="tick">
                                             Call a professional to handle all other situations.
                                             </a></li>
-                                        </ul>
+                                        </ul> -->
             
 
                                        
@@ -104,7 +128,7 @@
                                         <div class="related-tag">
                                             <h3 class="title heading-16px-rubik">Related Tags :</h3>
                                             <ul class="list-related">
-                                                <li><a href="#">Tree Care.</a></li>
+                                                <li><a href="#">lawn care.</a></li>
                                                 <li><a href="#">Arborist.</a></li>
                                                 <li><a href="#">Agency</a></li>
                                             </ul>
