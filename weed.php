@@ -75,8 +75,7 @@
                                         Applying a pre-emergent weed killer product eliminates weeds at the earliest stage of growth — before you even see them. Several key factors are important to consider if you want to use this type of weed killer effectively. 
                                         Typical applications occur in early spring before warm season weeds appear and in autumn for cool season weeds. These preventative herbicides actually can be helpful throughout the majority of the growing season. 
                                         Various weeds germinate at different times, so repeated applications of the correct chemical can eliminate the majority of the weeds in any lawn or yard.
-                                    </p>
-                                    <p class="desc-content-box text-decs">
+                                    <br><br>
                                         A fall or winter application is necessary in some geographical areas. Locations that deal with annual bluegrass or annual ryegrass will want to get their lawn covered prior to the initial seasonal autumn/winter rains. 
                                         In some southern climates, a winter application is necessary to protect against crabgrass as early as January or February.  A summer application can be helpful, even necessary, in those areas where certain weeds wait for the hot weather. 
                                         Many spots need to be ready for a second onslaught by some early weeds that can reseed and grow the same season, like the ever-present dandelion.

@@ -53,9 +53,7 @@
                                     <p class="desc-content-box text-decs">
                                         The best way to control lawn pests is to identify them correctly, get to know their life cycles and symptoms,
                                          and then treat them promptly and properly at optimal times.
-                                    </p>
-                                   
-                                    <p class="desc-content-box text-decs">
+                                         <br><br>
                                         Common signs that pests have invaded your turf include brown spots, dead and dying grass patches, wilting blades, 
                                         bite marks on grass, and, of course, insects in the grass or turf layer. 
                                         Signs of underground pest damage include thin or missing roots and holes in the soil.
@@ -71,17 +69,14 @@
                                         Lawn pest damage often goes unnoticed and unchecked until major damage occurs. 
                                         Fortunately, you can quickly and efficiently control and prevent pests such as cutworms, 
                                         armyworms, sod webworms, grubs, and chinch bugs with the help of good insecticide.
-                                    </p>
-                                    <p class="desc-content-box text-decs">
+                                        <br><br>
                                         Few things can lay waste to your beloved turf faster than grubs, and the pros know that prevention it’s the key, 
                                         it’s crucial to catch them early, before they hatch. To keep grubs from growing in your lawn for up to 4 months, 
                                         apply a insecticide as directed from spring to early summer.
-                                    </p>
-                                    <p class="desc-content-box text-decs">
+                                        <br><br>
                                        <strong> Bonus:</strong> Grubs are a food source for moles and skunks, which are a close second to grubs when it comes to lawn destruction.
                                         Take away the grubs and the moles will have less reason to hang out in your yard.
-                                    </p>
-                                    <p class="desc-content-box text-decs">
+                                        <br><br>
                                         A pest-free lawn is a pleasant place for family and friends to gather and enjoy your outdoor spaces. 
                                         Keep an eye out for these common turf nuisances and act promptly when they strike. 
                                         With the help of lawn insecticides, you can control common lawn pests and stop them in their tracks.

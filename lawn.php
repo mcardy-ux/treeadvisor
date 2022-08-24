@@ -67,16 +67,12 @@
                                         <p class="desc-content-box text-decs">
                                             Proper lawn care takes a bit more effort than just lawn mowing.
                                             You need to water, fertilize, seed and regularly aerate your lawn. 
-                                            </p>
-                                <br>
-                                        <p class="desc-content-box text-decs">
+                                            <br><br>
                                             Lawns are an important component of many home landscapes. 
                                             Good cultural practices are necessary to achieve a healthy, attractive lawn. 
                                             One important cultural practice is fertilization. 
                                             The benefits of a well-maintained lawn fertilization program are good turf color, quality and density.
-                                            </p>
-                                <br>
-                                        <p class="desc-content-box text-decs">
+                                            <br><br>
                                             With the right plan, the right grass seeds for your region, appropriate lawn fertilizer and a dependable lawn mower, your grass will be healthy and thriving in no time. 
                                             The two main types of turf grass are warm season grass and cool season grass. 
                                             Pick the grass seed that matches the climate and your yard’s sun exposure. 
@@ -91,11 +87,11 @@
                                     <h5 class="content-2 heading-content-box" style="color:#348e38 !important;">Ready To Start Your Project?</h5>   
                                     <p class="desc-content-box text-decs">
                                         <strong> Find Pros Or DIY Lawn Care </strong>
-                                    <br>
+                                        <br><br>
                                         <strong> Everything you need to know about maintaining your lawn </strong>
-                                    <br>
+                                        <br><br>
                                         <strong> First buy a dependable lawn mower </strong>
-                                    <br>
+                                        <br><br>
                                             There’s no doubt about it: a lawn mower is an investment.
                                              Once you buy one, especially a pricier one, you’re kind of stuck with it unless you want to go through the hassle of trying to sell it if you don’t like it. 
                                             There’s too many brands out there that you want to stay away from them that I don’t want to mention not to waste your time reading about it, instead I can recommend some good ones. 

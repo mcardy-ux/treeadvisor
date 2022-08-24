@@ -9,10 +9,10 @@
                         <div class="overlay-image"></div>
                         <div class="banner-title">
                             <div class="page-title-heading">
-                                Tree Care
+                                irrigation
                             </div>
                             <div class="page-title-content link-style6">
-                                <span><a class="home" href="index.php">Home</a></span><span class="page-title-content-inner">Tree Care</span>
+                                <span><a class="home" href="index.php">Home</a></span><span class="page-title-content-inner">irrigation</span>
                             </div>
                         </div>
                     </div>
@@ -35,7 +35,7 @@
                             <div class="content-blog-detail">
                                 <div class="image-box">
                                     <div class="image">
-                                        <img src="images/blog/tree1.jpg" alt="image">
+                                        <img src="images/blog/irrigation1.jpg" alt="image">
                                     </div>
                                 </div>
                                 <div class="content mg-top-15">
@@ -46,59 +46,40 @@
 								</a></span>
                                     <div class="heading-content-box">
                                         <a href="#">
-                                        Why Not to Attempt Tree Removal on Your Own
+                                        smart controllers
 								</a></div>
-                                <h5 class="content-2 heading-content-box" style="color:#348e38 !important;">REASONS FOR PRUNING</h5>
+                                <h5 class="content-2 heading-content-box" style="color:#348e38 !important;">The right amount of water at that right time</h5>
 
                                     <p class="desc-content-box text-decs">
-                                        Trees are beautiful and can be an asset to many properties. However, there are many times when trees can decline and become hazardous and become a 
-                                        liability or are no longer wanted due to other reasons.
-                                        Considered both an art and a science, <a href="#" style="color:#95B2CA !important;"><strong>pruning</strong></a> has changed dramatically over the last 30 to 40 years. 
-                                        There are many valid reasons for <a href="#" style="color:#95B2CA !important;"><strong>pruning</strong></a> or 
-                                        <a href="#" style="color:#95B2CA !important;"><strong>removing trees and shrubs</strong></a>. However, 
-                                        the most important reasons are for safety, health, and appearance.
+                                        An automatic sprinkler system is a home improvement project worth considering. 
+                                        Not only will it help maintain a healthy beautiful landscape which you can enjoy with your friends and family, 
+                                        but it’s the most convenient and efficient way to ensure your landscape gets the water it needs without over or under watering. 
+                                        When it is properly installed and maintained an automatic sprinkler system will help conserve water too.
+                                        <br><br>
+                                        In fact, a professionally or DIY-installed automatic sprinkler system is one of the best investments that you can make for your home.
+                                        <br><br>
+                                        Keep in mind, however, that there is more to a sprinkler system than just sprinklers.  System design and installation are critical factors that will affect your system’s performance and longevity. If you hire a professional to install your sprinkler system, a system design should be created before installation begins.
+                                        <br><br>
+                                        If on the other hand, you decide to install the sprinkler system yourself, TreeAdvisor can create a design plan customized to your landscape’s specific needs.
+                                        <br><br>
+                                        So put away your garden hose and let TreeAdvisor do your watering for you automatically!
+                                        <br><br>
+                                        Irrigation controllers are sometimes called irrigation timers, with a Smart Irrigation System is installed, you’ll never have to drag a hose all over the yard, never have to try and figure out if you’ve applied enough or too much water, and you’ll never have to worry about watering the lawn while you’re away. An automatic irrigation system protects that investment by growing healthier, longer living plants and grass. Healthy, well-manicured landscapes will also measurably increase your property’s appraised value and curb appeal.
+                                        <br><br>
+                                        Controllers are the brains of a sprinkler system. They activate and deactivate designated irrigation zones according to programmed run times. Properly programed controllers ensure a landscape is receiving the right amount of water at the optimal watering time. Choosing the right controller typically depends on the number of zones needed in a system, and whether or not those zones will be added to or reduced in the future. Smart controller which adjusts your watering schedule automatically based on daily weather conditions, resulting in increased water savings throughout the year.
+                                        <br><br>
+                                        Installing an automatic irrigation system is a complex task. That’s why it is best to hire a qualified professional to design, select, install, and maintain your system. Irrigation contractors are experts in hydraulics, proper sprinkler system layout (Head to head coverage), plant water requirements and soil types. Their skills will help ensure a water-efficient system and years of trouble-free operation.
+                                        <br><br>
+                                        But how do you make sure that the person you hire is qualified to do the job? Here are some handy guidelines to follow when choosing a contractor:
+                                        <br><br>
+                                        Here’s our choice for a smart irrigation controllers
+                                        <br>
                                     </p>
-                                    <div class="content-note-author">
-                                        <p class="desc-content-box text-decs">
-                                        Trees are a long-term investment for property owners and managers and like any other investment, trees require effort to keep their value. Not taking the time to hire a reputable tree service may create greater problems in the future and be more costly in the long run. For example, storm damage cleanup is extremely dangerous, even for professionals!
-                                        </p>
-                                        <a href="#" class="author heading-16px-rubik">
-                                        Why hire a certified arborist?
-                                    </a>
-
-                                    </div>
-                                    
                                     <div class="image-box">
                                         <div class="image-2">
-                                            <img src="images/blog/tree2.jpg" alt="image">
+                                            <img src="images/blog/irrigation2.jpg" alt="image">
                                         </div>
                                     </div>
-                                    <h5 class="content-2 heading-content-box" style="color:#348e38 !important;">Homeowners</h5>
-                                    <p class="desc-content-box text-decs">
-                                        
-                                        Do not use a chainsaw if you are not experienced in operating it or if you are not physically fit. If you must use a chainsaw, seek training, work only on the ground, and always use the proper personal protective equipment.
-                                        <br><br>
-                                        <ul class="nav-access-blog-detail">
-                                            <li><a href="#" class="tick">
-                                            Never do any tree work that involves falling trees, climbing of any kind, or using ladders and/or ropes
-                                            </a></li>
-                                            <li><a href="#" class="tick">
-                                            Never cut above shoulder height. If you have to hold the saw higher than your shoulder, the branches are too high, and you should not be using a chainsaw.
-                                            </a></li>
-                                            <li><a href="#" class="tick">
-                                            Professional tree workers are required by law to use the Personal Protective Equipment (PPE)
-                                            </a></li>
-                                            <li><a href="#" class="tick">
-                                            Homeowners should wear the same protection as the professional or NOT do the work at all!
-                                            </a></li>
-                                            <li><a href="#" class="tick">
-                                            Call a professional to handle all other situations.
-                                            </a></li>
-                                        </ul>
-            
-
-                                       
-                                    </p>
                                     <hr>
                                     <div class="bottom-content">
                                         <div class="related-tag">

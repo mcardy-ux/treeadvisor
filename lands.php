@@ -163,10 +163,11 @@
                                             <br>
                                             </p>
                                             <ul class="desc-content-box text-decs"> 
-                                                    <li>• Begin by making an application of glyphosate-based product 10–14 days before sod installation takes place.</li>
-                                                    <li>• Wait three to four days and then make a second application.</li>
-                                                    <li>• Once your grass is dead, use a sod cutter and a roto-tiller to remove the top layer of grass and weeds. (many people make the mistake using the roller tiller first to remove the top layer or grass this is wrong because they mix the weeds and the old grass with the soil).</li>
+                                                    <li><strong>• Begin by making an application of glyphosate-based product 10–14 days before sod installation takes place.</strong></li>
+                                                    <li><strong>• Wait three to four days and then make a second application.</strong></li>
+                                                    <li><strong>• Once your grass is dead, use a sod cutter and a roto-tiller to remove the top layer of grass and weeds. (many people make the mistake using the roller tiller first to remove the top layer or grass this is wrong because they mix the weeds and the old grass with the soil).</strong></li>
                                             </ul>
+                                            <br><br>
                                         <p class="desc-content-box text-decs">
                                             <strong>Step 5: Soil preparation</strong>
                                             <br>
@@ -177,13 +178,14 @@
                                             Once you have done all of the preparation work, it is now time to have your sod delivered and installed. Be sure to have the grass off the pallet and in your lawn in 48 hours or less. When laying out the new sod, it is recommended to follow these tips:
                                             <br>
                                             <ul class="desc-content-box text-decs">
-                                                <li>• Plan on where the sod will be delivered and place it in a convenient location in your yard.</li>
-                                                <li>• Use wheel barrels to help transport slabs to where you’re working as you move around.</li>
-                                                <li>• Plan on having the appropriate amount of people handy to help out with labor.</li>
-                                                <li>• Have the right hand tools, such as utility knife box-cutter to cut oddly shaped pieces to fit around curbs or other landscaping.</li>
-                                                <li>• Use a brick pattern when laying with offsetting seams.</li>
-                                                <li>• Place the pieces together as tightly as possible and use a lawn roller to prevent air packets and weeds from pushing through the seams and to retain moisture.</li>
+                                                <li><strong>• Plan on where the sod will be delivered and place it in a convenient location in your yard.</strong></li>
+                                                <li><strong>• Use wheel barrels to help transport slabs to where you’re working as you move around.</strong></li>
+                                                <li><strong>• Plan on having the appropriate amount of people handy to help out with labor.</strong></li>
+                                                <li><strong>• Have the right hand tools, such as utility knife box-cutter to cut oddly shaped pieces to fit around curbs or other landscaping.</strong></li>
+                                                <li><strong>• Use a brick pattern when laying with offsetting seams.</strong></li>
+                                                <li><strong>• Place the pieces together as tightly as possible and use a lawn roller to prevent air packets and weeds from pushing through the seams and to retain moisture.</strong></li>
                                             </p>
+                                            <br><br>
                                             <p class="desc-content-box text-decs">
                                             <strong>Step 7: Water & Fertilize</strong>
                                             <br>
