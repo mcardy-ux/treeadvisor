@@ -5,7 +5,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Raed Khayat</title>
+  <title>Tree Advisor</title>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 
@@ -131,34 +131,33 @@
 
     /*This Glowing Hover Effect was made by qpi65 , i used it to Highlight my name */
   </style>
-  <img id="userPhoto" src="https://i.imgur.com/vQ6CDIK.png" alt="User Photo">
-  <a class="icon" href="https://codepen.io/co0lray" id="userName" target="_blank">
-    <h1><span>Raed Khayat</span></h1>
+  <img id="userPhoto" src="icon/Favicon.png" alt="User Photo">
+  <a class="icon" href="https://treeadvisor.org" id="userName" target="_blank">
+    <h1><span>Tree Advisor</span></h1>
   </a>
   <div id="links">
-    <a class="link" href="https://github.com/co0lray" target="_blank"><i class="fa fa-github" style="padding:10px"></i>Github</a>
-    <a class="link" href="https://stackoverflow.com/users/6804807/co0lray" target="_blank"><i class="fa fa-stack-overflow" style="padding:10px"></i>Stackoverflow</a>
-    <a class="link" href="https://www.reddit.com/user/co0lray" target="_blank"><i class="fa fa-reddit" style="padding:10px"></i> Reddit </a>
-    <a class="link" href="https://www.linkedin.com/in/raed-khayat/" target="_blank"><i class="fa fa-linkedin-square" style="padding:10px"></i>Linkedin</a>
-    <a class="link" href="https://twitter.com/co0lray" target="_blank"><i class="fa fa-twitter-square" style="padding:10px"></i> Twitter</a>
-    <a class="link" href="https://www.instagram.com/co0l_ray/" target="_blank"><i class="fa fa-instagram" style="padding:10px"></i>Instagram</a>
-    <a class="link" href="https://www.youtube.com/channel/UC-XXyJ8xlNGUQx7Isxzsp2w" target="_blank"><i class="fa fa-youtube" style="padding:10px"></i>Youtube</a>
-    <a class="link" href="https://www.twitch.tv/co0lray" target="_blank"><i class="fa fa-twitch" style="padding:10px"></i>Twitch</a>
-    <a class="link" href="https://www.tiktok.com/@co0lray?lang=en" target="_blank"><i class="fab fa-tiktok" style="padding:10px"></i>TikTok</a>
+    
+    
+    <a class="link" href="#" target="_blank"><i class="fa fa-amazon" style="padding:10px"></i> Amazon </a>
+    <a class="link" href="#" target="_blank"><i class="fa fa-linkedin-square" style="padding:10px"></i>Linkedin</a>
+    <a class="link" href="#" target="_blank"><i class="fa fa-twitter-square" style="padding:10px"></i> Twitter</a>
+    <a class="link" href="#" target="_blank"><i class="fa fa-instagram" style="padding:10px"></i>Instagram</a>
+    <a class="link" href="#" target="_blank"><i class="fa fa-youtube" style="padding:10px"></i>Youtube</a>
+    <a class="link" href="#" target="_blank"><i class="fab fa-tiktok" style="padding:10px"></i>TikTok</a>
   </div>
   <div class="Bottom-Section">
     <p style="color:black">You Can Also Find me Here:</p>
     <div class="icon-container">
-      <a class="icon" href="https://medium.com/@coollray" target="_blank"><i class="fa fa-medium"></i></a>
-      <a class="icon" href="https://www.pinterest.com/coollray/" target="_blank"><i class="fa fa-pinterest"></i></a>
-      <a class="icon" href="https://co0lray.tumblr.com" target="_blank"><i class="fa fa-tumblr-square"> </i></a>
-      <a class="icon" href="https://vimeo.com/co0lray" target="_blank"><i class="fa fa-vimeo"></i></a>
-      <a class="icon" href="https://www.snapchat.com/add/raed_khayat" target="_blank"><i class="fa fa-snapchat"></i></a>
+      <a class="icon" href="#" target="_blank"><i class="fa fa-medium"></i></a>
+      <a class="icon" href="#" target="_blank"><i class="fa fa-pinterest"></i></a>
+      <a class="icon" href="#" target="_blank"><i class="fa fa-tumblr-square"> </i></a>
+      <a class="icon" href="#" target="_blank"><i class="fa fa-vimeo"></i></a>
+      <a class="icon" href="#" target="_blank"><i class="fa fa-snapchat"></i></a>
     </div>
   </div>
   <footer style="text-align:center;">
 
-    <p style="color:black">Powered by : <a class="icon" href="https://co0lray.github.io/co0lray/" target="_blank">co0lray</p>
+    <p style="color:black">Powered by : <a class="icon" href="https://co0lray.github.io/co0lray/" target="_blank">treeAdvisor</p>
   </footer>
 
   <!-- Javascript -->
