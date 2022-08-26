@@ -197,8 +197,9 @@
                     <div class="themesflat-spacer clearfix" data-desktop="120" data-mobile="30" data-smobile="20" style="height:30px"></div>
                     <div class="testimonials-content-left">
                         <div class="section-title-box">
-                            <h5 class="section-subtitle" style="font-size: 25px !important; ">Pro Advise</h5>
-                            <h2 class="section-title"style="color: #0f4229 !important">Be the expert in your own home</h2>
+                            <h5 class="section-title" style="color: #0f4229 !important; ">Pro Advise</h5>
+                            <br>
+                            <h2 class="section-subtitle"style="font-size: 25px !important">Be the expert in your own home</h2>
                         </div>
                         <p class="section-desc mg-top-25">As a homeowner, you know that home maintenance can be nothing short of daunting! Explore our ever-expandingcollection of tips, tricks, and how-to's for inspiration and let TreeAdvisor be your guide to making your house a home.</p>
                     </div>
