@@ -59,7 +59,7 @@ echo'<div class="boxed blog">
                                             <a href="index.php" title="">Home</a>
                                         </li>
                                         <li class="menu-item menu-item-has-children">
-                                            <a href="services.php" title="">How it works?</a>
+                                            <a href="services.php" title="">Pro Advice</a>
                                             <ul class="sub-menu">
                                             <li><a href="tree.php" title="">Tree Care</a></li>
                                             <li><a href="lawn.php" title="">Lawn Care</a></li>
@@ -76,6 +76,9 @@ echo'<div class="boxed blog">
                                         </li>
                                         <li class="menu-item">
                                             <a href="about.php" title="">Who are we?</a>
+                                        </li>
+                                        <li class="menu-item">
+                                        <a href="##.php" title="">How it works?</a>
                                         </li>
                                         <li class="menu-item">
                                         <a href="projects.php" title="">Projects</a>

@@ -17,26 +17,11 @@
                                         <li data-transition="random">
                                             <!-- Main Image -->
                                             <!-- Layers -->
-                                            <div class="tp-caption tp-resizeme text-one"
-                                                data-x="['left','left','left','center']"
-                                                data-hoffset="['0','0','0','0']"
-                                                data-y="['middle','middle','middle','middle']"
-                                                data-voffset="['-274','-50','-50','-50']"
-                                                data-fontsize="['16','16','16','16']" data-lineheight="['20','0','0','0']"
-                                                data-width="full" data-height="none" data-whitespace="normal"
-                                                data-transform_idle="o:1;"
-                                                data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;"
-                                                data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;"
-                                                data-mask_in="x:0px;y:[100%];" data-mask_out="x:inherit;y:inherit;"
-                                                data-start="700" data-splitin="none" data-splitout="none"
-                                                data-responsive_offset="on">
-                                                <h3 class="sub-title">CERTIFIED ESPECIALIST</h3>
-                                            </div>
 
                                             <div class="tp-caption tp-resizeme text-two"
-                                                data-x="['left','left','left','center']" data-hoffset="['-2','-2','5','0']"
-                                                data-y="['middle','middle','middle','middle']" data-voffset="['-130','-165', '-15','-15']"
-                                                data-fontsize="['60','70','50','60']"
+                                                data-x="['left','left','left','center']" data-hoffset="['25','-2','5','0']"
+                                                data-y="['middle','middle','middle','middle']" data-voffset="['-225','-165', '-15','-15']"
+                                                data-fontsize="['45','70','50','60']"
                                                 data-lineheight="['70','80','64','48']" 
                                                 data-width="full"
                                                 data-height="none" 
@@ -47,16 +32,16 @@
                                                 data-mask_in="x:0px;y:[100%];" data-mask_out="x:inherit;y:inherit;"
                                                 data-start="700" data-splitin="none" data-splitout="none"
                                                 data-responsive_offset="on">
-                                                <div class="title-box">
-                                                    <h2 class="title-slider text-pri2-color">Find local pros for <br>all your home<br> improvement projects. </h2>
+                                                <div class="title-box" style="text-align: left; !important">
+                                                    <h2 class="title-slider text-pri2-color" style=" margin: 5px !important ;">Get free quotes <br>from top local pros<br> easy online scheduling <br> Finding the right contractor <br> is fast, easy and it’s free! </h2>
                                                 </div>
                                             </div>
 
                                             <div class="tp-caption btn-text btn-linear hv-linear-gradient"
                                                 data-x="['left','left','left','center']"
-                                                data-hoffset="['-3','-3','5','0']"
+                                                data-hoffset="['7','-3','5','0']"
                                                 data-y="['middle','middle','middle','middle']"
-                                                data-voffset="['48','40','180','280']" data-width="full"
+                                                data-voffset="['-10','40','180','280']" data-width="full"
                                                 data-height="none" data-whitespace="normal" data-transform_idle="o:1;"
                                                 data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;"
                                                 data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;"
@@ -83,9 +68,9 @@
                                             </div>
                                             <div class="tp-caption tp-resizeme image-slider text-right "
                                                 data-x="['right','right','right','right']"
-                                                data-hoffset="['-29','-29','-150','-29']"
+                                                data-hoffset="['-39','-29','-150','-29']"
                                                 data-y="['center','center','center','center']"
-                                                data-voffset="['-88','-88','60','-88']" data-width="full"
+                                                data-voffset="['-150','-88','60','-88']" data-width="full"
                                                 data-height="none" data-whitespace="normal" data-transform_idle="o:1;"
                                                 data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;"
                                                 data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;"
@@ -94,7 +79,7 @@
                                                 data-responsive_offset="on">
                                                 <img class="img-slide wow jackInTheBox" data-wow-delay="2500ms"
                                                     data-wow-duration="3s"
-                                                    src="images/home/treeAdvisor2.jpg"
+                                                    src="images/home/treeAdvisor22.jpg"
                                                     alt="images">
                                             </div>
                                         </li>
@@ -118,15 +103,15 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12" style="text-align:center;">
-                        <div class="themesflat-spacer clearfix" data-desktop="30" data-mobile="0" data-smobile="0" style="height:30px"></div>
+                        <div class="themesflat-spacer clearfix" data-desktop="0" data-mobile="0" data-smobile="0" style="height:30px"></div>
                         
                         <div class="testimonials-content-center">
                         <div class="section-title-box">
-                            <h5 class="section-subtitle" style="color:#0f4229 !important;"><strong>HOW IT WORKS</strong></h5>
+                            <h2 class="section-title" style="color:#0f4229; !important;"><strong>HOW IT WORKS</strong></h2>
                             <br>
                             <h5 class="section-subtitle">TreeAdvisor Outdoor Living is a home service platform that connects you to a very specific group of local pros. Our family of providers works with rigorous quality standards to repair, maintain and enhance your landscape and any home improvement. With pros living in your community, scheduling is quick and convenient. So use the search bar below to find your local PRO today.</h5>
                         </div>
-                        <!-- <p class="section-desc mg-top-25">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna</p> -->
+                        
                     </div>
                         
                     </div>
@@ -212,8 +197,8 @@
                     <div class="themesflat-spacer clearfix" data-desktop="120" data-mobile="30" data-smobile="20" style="height:30px"></div>
                     <div class="testimonials-content-left">
                         <div class="section-title-box">
-                            <h5 class="section-subtitle">Pro Advise</h5>
-                            <h2 class="section-title">Be the expert in your own home</h2>
+                            <h5 class="section-subtitle" style="font-size: 25px !important; ">Pro Advise</h5>
+                            <h2 class="section-title"style="color: #0f4229 !important">Be the expert in your own home</h2>
                         </div>
                         <p class="section-desc mg-top-25">As a homeowner, you know that home maintenance can be nothing short of daunting! Explore our ever-expandingcollection of tips, tricks, and how-to's for inspiration and let TreeAdvisor be your guide to making your house a home.</p>
                     </div>
