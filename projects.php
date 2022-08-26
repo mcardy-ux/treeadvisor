@@ -9,7 +9,7 @@
                         <div class="overlay-image"></div>
                         <div class="banner-title">
                             <div class="page-title-heading">
-                                Case Study
+                            Find a Pro Near Me
                             </div>
                             <div class="page-title-content link-style6">
                                 <span><a class="home" href="index.php">Home</a></span><span class="page-title-content-inner">Case Study</span>
@@ -30,6 +30,7 @@
                     <div class="col-md-12">
                         <div class="themesflat-spacer clearfix" data-desktop="120" data-mobile="60" data-smobile="60"></div>
                     </div>
+                    
                     <div class="col-md-6">
                         <div class="list-box-profolio wow fadeInDown">
                             <div class="image-profolio bd-radius-8-image">

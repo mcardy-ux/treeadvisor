@@ -72,7 +72,7 @@
                                                                     <form method="post" class="form-subcribe">
                                                                         <input type="email" name="email" class="input-subcribe"
                                                                             placeholder="Enter your Zip Code" required>
-                                                                        <button type="submit" class="btn-subcribe">Find Pros</button>
+                                                                        <button type="submit" class="btn-subcribe">Find my local Pros</button>
                                                                     </form>
                                                                 </div>
                                                             </div>
@@ -122,10 +122,11 @@
                         
                         <div class="testimonials-content-center">
                         <div class="section-title-box">
-                            <h5 class="section-subtitle">HOW IT WORKS</h5>
-                            <h2 class="section-title">Our Best Services That We Offer To You !</h2>
+                            <h5 class="section-subtitle" style="color:#0f4229 !important;"><strong>HOW IT WORKS</strong></h5>
+                            <br>
+                            <h5 class="section-subtitle">TreeAdvisor Outdoor Living is a home service platform that connects you to a very specific group of local pros. Our family of providers works with rigorous quality standards to repair, maintain and enhance your landscape and any home improvement. With pros living in your community, scheduling is quick and convenient. So use the search bar below to find your local PRO today.</h5>
                         </div>
-                        <p class="section-desc mg-top-25">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna</p>
+                        <!-- <p class="section-desc mg-top-25">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna</p> -->
                     </div>
                         
                     </div>
@@ -211,10 +212,10 @@
                     <div class="themesflat-spacer clearfix" data-desktop="120" data-mobile="30" data-smobile="20" style="height:30px"></div>
                     <div class="testimonials-content-left">
                         <div class="section-title-box">
-                            <h5 class="section-subtitle">OUR SERVICES</h5>
-                            <h2 class="section-title">Our Best Services That We Offer To You !</h2>
+                            <h5 class="section-subtitle">Pro Advise</h5>
+                            <h2 class="section-title">Be the expert in your own home</h2>
                         </div>
-                        <p class="section-desc mg-top-25">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna</p>
+                        <p class="section-desc mg-top-25">As a homeowner, you know that home maintenance can be nothing short of daunting! Explore our ever-expandingcollection of tips, tricks, and how-to's for inspiration and let TreeAdvisor be your guide to making your house a home.</p>
                     </div>
                     <div class="themesflat-spacer clearfix" data-desktop="0" data-mobile="30" data-smobile="30" style="height:0px"></div>
                 </div>
@@ -562,8 +563,8 @@
                 <div class="row">
                     <div class="col-lg-8 col-sm-6">
                         <div class="section-title-box">
-                            <h5 class="section-subtitle">LATEST NEWS</h5>
-                            <h2 class="section-title">Our Insights & Articles</h2>
+                            <h5 class="section-subtitle"><strong>Pro Advise</strong></h5>
+                            <h2 class="section-title">Solution Center, Reviews & Recommendations</h2>
                         </div>
                     </div>
                     <div class="col-lg-4 col-sm-6">
