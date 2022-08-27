@@ -1601,6 +1601,14 @@ button.btn.btn-outline-primary {
     padding-right: 3px;
     letter-spacing: 0px;
 }
+.p .content-box .desc-content-box-p {
+    color: #0f4229;
+    background-color: #ffffff;
+    margin-top: 12px;
+    padding-right: 3px;
+    letter-spacing: 0px;
+    margin: 10%, 50%, 10%, 50%;
+}
 
 article.article-2 {
     padding-top: 39px;

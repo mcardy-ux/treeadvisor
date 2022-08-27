@@ -12,7 +12,7 @@
                             Find a Pro Near Me
                             </div>
                             <div class="page-title-content link-style6">
-                                <span><a class="home" href="index.php">Home</a></span><span class="page-title-content-inner">Case Study</span>
+                                <span><a class="home" href="index.php">Home</a></span><span class="page-title-content-inner">Find a Pro Near Me</span>
                             </div>
                         </div>
                     </div>
@@ -24,6 +24,14 @@
         <!-- /.page-title -->
 
         <!-- our-profolio -->
+            <div class="post-wrap" style="background-color: #ffffff !important;">
+                <div class="content-blog-detail" style="background-color: #ffffff !important;">
+                    <section class="content-box" style="background-color: #ffffff !important;">
+                        <p class="desc-content-box-p text-decs" style="text-align: center;  color: #0f4229; background-color: #ffffff; margin-top: 12px; padding-right: 3px; letter-spacing: 0px; margin: 10%, 50%, 10%, 50%; font-size: 20px !important;"> 
+                            We know that not everyone is able to perform home projects and tree work is not a good DIY project! When you want dangerous tree removals, pruning or pest management and anything landscape related at your home, you need a professional you can trust, to do the job right. So browse by category below to find your local PRO today.
+                        </p>
+                </div>
+            </div>
         <section class="flat-case-study">
             <div class="container">
                 <div class="row">
