@@ -1601,7 +1601,7 @@ button.btn.btn-outline-primary {
     padding-right: 3px;
     letter-spacing: 0px;
 }
-.p .content-box .desc-content-box-p {
+.p.content-box .desc-content-box-p {
     color: #0f4229;
     background-color: #ffffff;
     margin-top: 12px;

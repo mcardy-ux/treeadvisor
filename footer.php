@@ -81,15 +81,12 @@ echo' <!-- footer -->
                                     </p>
                                     <ul class="list-menu-2 text-decs link-style4">
                                         <li>
-                                            <h3 class="heading-menu2"><a href="blog-detail.html">Bigg Ideas Of Weed Control</a></h3>
-                                            <span class="post-date"><span class="entry-date">August 7,
-                                                    2022</span></span>
+                                            <h3 class="heading-menu2"><a href="privacyPolicy.php">Privacy Policy.</a></h3>
+                    
                                         </li>
                                         <li>
-                                            <h3 class="heading-menu2"><a href="blog-detail.html">Bigg Ideas Lawn Care.</a>
+                                            <h3 class="heading-menu2"><a href="TermsConditions.php"> Terms Conditions.</a>
                                             </h3>
-                                            <span class="post-date"><span class="entry-date">August 7,
-                                                    2022</span></span>
                                         </li>
                                     </ul>
                                 </div>
