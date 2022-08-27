@@ -20,7 +20,7 @@
 
                                             <div class="tp-caption tp-resizeme text-two"
                                                 data-x="['left','left','left','center']" data-hoffset="['25','-2','5','0']"
-                                                data-y="['middle','middle','middle','middle']" data-voffset="['-225','-165', '-15','-15']"
+                                                data-y="['middle','middle','middle','middle']" data-voffset="['-325','-165', '-15','-15']"
                                                 data-fontsize="['45','70','50','60']"
                                                 data-lineheight="['70','80','64','48']" 
                                                 data-width="full"
@@ -68,9 +68,9 @@
                                             </div>
                                             <div class="tp-caption tp-resizeme image-slider text-right "
                                                 data-x="['right','right','right','right']"
-                                                data-hoffset="['-39','-29','-150','-29']"
+                                                data-hoffset="['-79','-29','-150','-29']"
                                                 data-y="['center','center','center','center']"
-                                                data-voffset="['-150','-88','60','-88']" data-width="full"
+                                                data-voffset="['-230','-88','60','-88']" data-width="full"
                                                 data-height="none" data-whitespace="normal" data-transform_idle="o:1;"
                                                 data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;"
                                                 data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;"
@@ -103,17 +103,18 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12" style="text-align:center;">
-                        <div class="themesflat-spacer clearfix" data-desktop="0" data-mobile="0" data-smobile="0" style="height:30px"></div>
+                        <div class="themesflat-spacer clearfix" data-desktop="20" data-mobile="0" data-smobile="0" style="height:30px"></div>
                         
-                        <div class="testimonials-content-center">
-                        <div class="section-title-box">
-                            <h2 class="section-title" style="color:#0f4229; !important;"><strong>HOW IT WORKS</strong></h2>
-                            <br>
-                            <h5 class="section-subtitle">TreeAdvisor Outdoor Living is a home service platform that connects you to a very specific group of local pros. Our family of providers works with rigorous quality standards to repair, maintain and enhance your landscape and any home improvement. With pros living in your community, scheduling is quick and convenient. So use the search bar below to find your local PRO today.</h5>
+                        <div class="testimonials-content-left">
+                            <div class="section-title-box">
+                                <h5 class="section-title" style="color: var(--primary-color) !important;padding-right:0px !important;" >How it works</h5>
+                                <br>
+                            </div>
+                            <p class="section-desc mg-top-25 ml-5 mr-5" style="color:var(--primary-color4) !important">TreeAdvisor Outdoor Living is a home service platform that connects you to a very 
+                                specific group of local pros. Our family of providers works with rigorous quality standards to repair, maintain and 
+                                enhance your landscape and any home improvement. With pros living in your community, scheduling is quick and convenient. 
+                                So use the search bar below to find your local PRO today.</p>
                         </div>
-                        
-                    </div>
-                        
                     </div>
                 </div>
                 <div class="row">
@@ -197,10 +198,12 @@
                     <div class="themesflat-spacer clearfix" data-desktop="120" data-mobile="30" data-smobile="20" style="height:30px"></div>
                     <div class="testimonials-content-left">
                         <div class="section-title-box">
-                            <h5 class="section-subtitle" style="font-size: 25px !important; ">Pro Advise</h5>
-                            <h2 class="section-title"style="color: #0f4229 !important">Be the expert in your own home</h2>
+                            <h5 class="section-title" style="color: var(--primary-color) !important" >Pro Advise</h5>
+                            <br>
+                            <h2 class="section-subtitle" style="font-size:23px;color:black">Be the expert in your own home</h2>
                         </div>
-                        <p class="section-desc mg-top-25">As a homeowner, you know that home maintenance can be nothing short of daunting! Explore our ever-expandingcollection of tips, tricks, and how-to's for inspiration and let TreeAdvisor be your guide to making your house a home.</p>
+                        <p class="section-desc mg-top-25" style="text-align:center;color:var(--primary-color4);">As a homeowner, you know that home maintenance can be nothing short of daunting! 
+                            <br>Explore our ever-expandingcollection of tips, tricks, and how-to's for inspiration and let TreeAdvisor be your guide to making your house a home.</p>
                     </div>
                     <div class="themesflat-spacer clearfix" data-desktop="0" data-mobile="30" data-smobile="30" style="height:0px"></div>
                 </div>
@@ -221,7 +224,7 @@
                                 <a href="tree.php">
                                     <h3 class="section-heading-rubik-size20">Tree Care</h3>
                                 </a>
-                                <h6 class="section-desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at est id leo</h6>
+                                <h6 class="section-desc">Trees are beautiful and can be an asset to many properties. However, there are many...</h6>
                             </div>
                         </div>
                         <div class="button-read-more link-style2">
@@ -240,7 +243,7 @@
                                 <a href="tree.php">
                                     <h3 class="section-heading-rubik-size20">Lawn Care</h3>
                                 </a>
-                                <h6 class="section-desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at est id leo</h6>
+                                <h6 class="section-desc">The single most important aspect of having a healthy lawn is to adopt proper...</h6>
                             </div>
                         </div>
                         <div class="button-read-more link-style2">
@@ -259,7 +262,7 @@
                                 <a href="tree.php">
                                     <h3 class="section-heading-rubik-size20">Pest Control</h3>
                                 </a>
-                                <h6 class="section-desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at est id leo</h6>
+                                <h6 class="section-desc">The best way to control lawn pests is to identify...</h6>
                             </div>
                         </div>
                         <div class="button-read-more link-style2">
@@ -278,7 +281,7 @@
                                 <a href="tree.php">
                                     <h3 class="section-heading-rubik-size20">Weed Control</h3>
                                 </a>
-                                <h6 class="section-desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at est id leo</h6>
+                                <h6 class="section-desc">Another basic pro lawn secret is to stay on top of weed growth. After all, it’s a whole...</h6>
                             </div>
                         </div>
                         <div class="button-read-more link-style2">
@@ -297,7 +300,7 @@
                                 <a href="tree.php">
                                     <h3 class="section-heading-rubik-size20">Landscaping</h3>
                                 </a>
-                                <h6 class="section-desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at est id leo</h6>
+                                <h6 class="section-desc">Installing an automatic irrigation system is a complex task. That’s why it...</h6>
                             </div>
                         </div>
                         <div class="button-read-more link-style2">
@@ -316,7 +319,7 @@
                                 <a href="tree.php">
                                     <h3 class="section-heading-rubik-size20">Irrigation</h3>
                                 </a>
-                                <h6 class="section-desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at est id leo</h6>
+                                <h6 class="section-desc">An automatic sprinkler system is a home improvement project worth considering...</h6>
                             </div>
                         </div>
                         <div class="button-read-more link-style2">
@@ -359,9 +362,9 @@
                     <div class="col-lg-6">
                         <div class="about-content">
                             <div class="about-content-title wow fadeInUp">
-                                <div class="section-subtitle">ABOUT US</div>
-                                <div class="section-title">The Best Choice For your Business.</div>
-                                <div class="section-desc">TreeAdvisor Outdoor Living is a digital marketplace that provides homeowners the tools and resources they need to complete their landscape improvement project, maintenance, repair and solve the common landscape problems.<br> With TreeAvisor Outdoor Living, homeowners can find local landscape professionals and instantly book appointments online or DIY.  We are here to help YOU the consumer. </div>
+                                <div class="section-title" style="color: var(--primary-color) !important;text-align:center;padding-right:0px;" >ABOUT US</div>
+                                <div class="section-subtitle" style="font-size:23px;color:black">The Best Choice For your Business.</div>
+                                <div class="section-desc" style="text-align: justify;">TreeAdvisor Outdoor Living is a digital marketplace that provides homeowners the tools and resources they need to complete their landscape improvement project, maintenance, repair and solve the common landscape problems.<br> With TreeAvisor Outdoor Living, homeowners can find local landscape professionals and instantly book appointments online or DIY.  We are here to help YOU the consumer. </div>
                             </div>
                             <div id="about-box" class="about-desc-box">
                                 <div class="about-desc">
@@ -394,8 +397,8 @@
                         <div class="themesflat-spacer clearfix" data-desktop="119" data-mobile="60" data-smobile="0">
                         </div>
                         <div class="section-title-box">
-                            <h4 class="section-subtitle wow fadeInUp">CLIENT TESTIMONIALS</h4>
-                            <h2 class="section-title">What our clients say </h2>
+                            <h4 class="section-title wow fadeInUp" style="color: var(--primary-color) !important">CLIENT TESTIMONIALS</h4>
+                            <h2 class="section-title" style="font-size:23px;color:black">What our clients say </h2>
                         </div>
                     </div>
                 </div>
@@ -469,7 +472,7 @@
                 <div class="row">
                     <div class="col-md-4 wow fadeInUp">
                         <div class="contact-left">
-                            <h3 class="section-subtitle">Ask a PRO</h3>
+                            <h3 class="section-title" style="color: var(--primary-color) !important;text-align:left;padding-right:0px;">Ask a PRO</h3>
                             <h2 class="section-title">Talk to a certified specialist about your project.</h2>
                         </div>
                     </div>
@@ -548,14 +551,12 @@
                 <div class="row">
                     <div class="col-lg-8 col-sm-6">
                         <div class="section-title-box">
-                            <h5 class="section-subtitle"><strong>Pro Advise</strong></h5>
-                            <h2 class="section-title">Solution Center, Reviews & Recommendations</h2>
+                        <h3 class="section-title" style="color: var(--primary-color) !important;text-align:left;padding-right:0px;"><strong>Pro Advise</strong></h3>
+                            <h2 class="section-title" style="font-size:23px">Solution Center, Reviews & Recommendations</h2>
                         </div>
                     </div>
                     <div class="col-lg-4 col-sm-6">
-                        <div class="button-news mg-top-20">
-                            <a href="blog.php" class="button-style-2 btn-2 f-right">See all</a>
-                        </div>
+                        
                     </div>
                 </div>
             </div>
