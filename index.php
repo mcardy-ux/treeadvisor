@@ -581,8 +581,7 @@
                                             <li><a href="blog-detail.html" class="user section-heading-rubik-size12">BY ADMIN</a></li>
                                             <li><a href="blog.php" class="folder section-heading-rubik-size12">Tree Advisor</a></li>
                                         </ul>
-                                        <a href="blog-detail.html" class="section-heading-rubik-size20 fw-500">Mauris Neque Nisiibus
-                                            Non Elementum</a>
+                                        <a href="blog-detail.html" class="section-heading-rubik-size20 fw-500">Trees are beautiful and can be an asset to...</a>
                                         <div class="news-read-more link-style2 mg-top-15">
                                             <a href="blog-detail.html" class="news-rm section-heading-rubik-size16">READ MORE</a>
                                         </div>
@@ -603,8 +602,7 @@
                                             <li><a href="blog-detail.html" class="user section-heading-rubik-size12">BY ADMIN</a></li>
                                             <li><a href="blog.php" class="folder section-heading-rubik-size12">Tree Advisor</a></li>
                                         </ul>
-                                        <a href="blog-detail.html" class="section-heading-rubik-size20 fw-500">Maecenas Interdum Lorem
-                                            Eleifend Orci Aliquam</a>
+                                        <a href="blog-detail.html" class="section-heading-rubik-size20 fw-500">The single most important aspect of having...</a>
                                         <div class="news-read-more link-style2 mg-top-15">
                                             <a href="blog-detail.html" class="news-rm section-heading-rubik-size16">READ MORE</a>
                                         </div>
@@ -625,8 +623,7 @@
                                             <li><a href="blog-detail.html" class="user section-heading-rubik-size12">BY ADMIN</a></li>
                                             <li><a href="blog.php" class="folder section-heading-rubik-size12">Tree Advisor</a></li>
                                         </ul>
-                                        <a href="blog-detail.html" class="section-heading-rubik-size20 fw-500">Quisque Suscipit Ipsum
-                                            Est, Eu Venenatis Leo</a>
+                                        <a href="blog-detail.html" class="section-heading-rubik-size20 fw-500">The best way to control lawn pests is to identify...</a>
                                         <div class="news-read-more link-style2 mg-top-15">
                                             <a href="blog-detail.html" class="news-rm section-heading-rubik-size16">READ MORE</a>
                                         </div>
@@ -647,8 +644,7 @@
                                             <li><a href="blog-detail.html" class="user section-heading-rubik-size12">BY ADMIN</a></li>
                                             <li><a href="blog.php" class="folder section-heading-rubik-size12">Tree Advisor</a></li>
                                         </ul>
-                                        <a href="blog-detail.html" class="section-heading-rubik-size20 fw-500">Quisque Suscipit Ipsum
-                                            Est, Eu Venenatis Leo</a>
+                                        <a href="blog-detail.html" class="section-heading-rubik-size20 fw-500">Another basic pro lawn secret is to stay on...</a>
                                         <div class="news-read-more link-style2 mg-top-15">
                                             <a href="blog-detail.html" class="news-rm section-heading-rubik-size16">READ MORE</a>
                                         </div>
@@ -669,8 +665,7 @@
                                             <li><a href="blog-detail.html" class="user section-heading-rubik-size12">BY ADMIN</a></li>
                                             <li><a href="blog.php" class="folder section-heading-rubik-size12">Tree Advisor</a></li>
                                         </ul>
-                                        <a href="blog-detail.html" class="section-heading-rubik-size20 fw-500">Quisque Suscipit Ipsum
-                                            Est, Eu Venenatis Leo</a>
+                                        <a href="blog-detail.html" class="section-heading-rubik-size20 fw-500">An automatic sprinkler system is a home...</a>
                                         <div class="news-read-more link-style2 mg-top-15">
                                             <a href="blog-detail.html" class="news-rm section-heading-rubik-size16">READ MORE</a>
                                         </div>
@@ -691,8 +686,7 @@
                                             <li><a href="blog-detail.html" class="user section-heading-rubik-size12">BY ADMIN</a></li>
                                             <li><a href="blog.php" class="folder section-heading-rubik-size12">Tree Advisor</a></li>
                                         </ul>
-                                        <a href="blog-detail.html" class="section-heading-rubik-size20 fw-500">Quisque Suscipit Ipsum
-                                            Est, Eu Venenatis Leo</a>
+                                        <a href="blog-detail.html" class="section-heading-rubik-size20 fw-500">An automatic sprinkler system is a home...</a>
                                         <div class="news-read-more link-style2 mg-top-15">
                                             <a href="blog-detail.html" class="news-rm section-heading-rubik-size16">READ MORE</a>
                                         </div>
