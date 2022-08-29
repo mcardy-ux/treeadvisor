@@ -66,7 +66,7 @@ echo'<div class="boxed blog">
                                             <a href="about.php" title="">Who are we?</a>
                                         </li>
                                         <li class="menu-item menu-item-has-children">
-                                            <a href="services.php" title="">Pro Advice</a>
+                                            <a href="#" title="Pro Advise">Pro Advise</a>
                                             <ul class="sub-menu">
                                             <li><a href="tree.php" title="">Tree Care</a></li>
                                             <li><a href="lawn.php" title="">Lawn Care</a></li>
