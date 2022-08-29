@@ -13,12 +13,12 @@ echo'<div class="boxed blog">
                 <div class="row">
                     <div class="col md-4">
                         <div class="top-bar-left">
-                            <p class="top-location">Florida Panama US - (800) 668-2181</p>
+                            <p class="top-location">Florida Panama City Beach - (800) 668-2181</p>
                         </div>
                     </div>
                     <div class="col md-8">
                         <div class="top-bar-right link-style3">
-                            <a href="#" class="top-mail">thearborist@treeadvisor.org</a>
+                            <a href="#" class="top-mail">askthearborist@treeadvisor.org</a>
                             <ul class="widgets-nav-social">
                                 <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
                                 <li><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
@@ -58,6 +58,13 @@ echo'<div class="boxed blog">
                                         <li class="menu-item">
                                             <a href="index.php" title="">Home</a>
                                         </li>
+
+                                        <li class="menu-item">
+                                        <a href="##.php" title="">How it works?</a>
+                                        </li>
+                                        <li class="menu-item">
+                                            <a href="about.php" title="">Who are we?</a>
+                                        </li>
                                         <li class="menu-item menu-item-has-children">
                                             <a href="services.php" title="">Pro Advice</a>
                                             <ul class="sub-menu">
@@ -73,16 +80,6 @@ echo'<div class="boxed blog">
                                         <li class="menu-item">
                                             <a href="projects.php" title="">Find Pros</a>
                                             <!-- /.sub-menu -->
-                                        </li>
-                                        <li class="menu-item">
-                                            <a href="about.php" title="">Who are we?</a>
-                                        </li>
-                                        <li class="menu-item">
-                                        <a href="##.php" title="">How it works?</a>
-                                        </li>
-                                        <li class="menu-item">
-                                        <a href="projects.php" title="">Projects</a>
-                                        <!-- /.sub-menu -->
                                         </li>
                                         <li>
                                             <a href="contact.php" title="">Contact</a>

@@ -130,7 +130,7 @@
                         <br><br>
                         <strong>Authenticated</strong> — HTTPS protocol authenticates your communication with us. This ensures that you are always communicating with our servers. 
                         <br><br>
-                        However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. We cannot ensure or warrant the security of any information You transmit to Us or store on the Website, and You do so at Your own risk. We also cannot guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of Our physical, technical, or managerial safeguards. If You believe Your Personal Data has been compromised, please contact Us at thearborist@treeadvisor.org. 
+                        However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. We cannot ensure or warrant the security of any information You transmit to Us or store on the Website, and You do so at Your own risk. We also cannot guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of Our physical, technical, or managerial safeguards. If You believe Your Personal Data has been compromised, please contact Us at askthearborist@treeadvisor.org. 
                         <br>
                         If We learn of a security systems breach, then We attempt to notify You electronically so that You can take appropriate protective steps. We may post a notice through the Website if a security breach occurs.
                          </p>
@@ -309,7 +309,7 @@
                     <p class="section-desc mg-bottom-35">
                         If you have questions or concerns regarding this policy or if you need to make a request please contact us at: 
                         <br>
-                        link: <a href="thearborist@treeadvisor.org" style="color: #348e38 !important;">thearborist@treeadvisor.org</a>
+                        link: <a href="askthearborist@treeadvisor.org" style="color: #348e38 !important;">askthearborist@treeadvisor.org</a>
                     </p>
             </div>
         </div>

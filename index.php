@@ -241,14 +241,14 @@
                         <div class="features-box">
                             <span class="tf-icon icon2 icon-farming"></span>
                             <div class="content-features">
-                                <a href="tree.php">
+                                <a href="lawn.php">
                                     <h3 class="section-heading-rubik-size20">Lawn Care</h3>
                                 </a>
                                 <h6 class="section-desc">The single most important aspect of having a healthy lawn is to adopt proper...</h6>
                             </div>
                         </div>
                         <div class="button-read-more link-style2">
-                            <a href="tree.php" class="read-more btn-read-more">Read More</a>
+                            <a href="lawn.php" class="read-more btn-read-more">Read More</a>
                         </div>
                     </article>
                 </div>
@@ -260,14 +260,14 @@
                         <div class="features-box">
                             <span class="tf-icon icon3 icon-Group-661"></span>
                             <div class="content-features">
-                                <a href="tree.php">
+                                <a href="pest.php">
                                     <h3 class="section-heading-rubik-size20">Pest Control</h3>
                                 </a>
                                 <h6 class="section-desc">The best way to control lawn pests is to identify...</h6>
                             </div>
                         </div>
                         <div class="button-read-more link-style2">
-                            <a href="tree.php" class="read-more btn-read-more">Read More</a>
+                            <a href="pest.php" class="read-more btn-read-more">Read More</a>
                         </div>
                     </article>
                 </div>
@@ -279,52 +279,52 @@
                         <div class="features-box">
                             <span class="tf-icon icon-fruit-box"></span>
                             <div class="content-features">
-                                <a href="tree.php">
+                                <a href="weed.php">
                                     <h3 class="section-heading-rubik-size20">Weed Control</h3>
                                 </a>
                                 <h6 class="section-desc">Another basic pro lawn secret is to stay on top of weed growth. After all, it’s a whole...</h6>
                             </div>
                         </div>
                         <div class="button-read-more link-style2">
-                            <a href="tree.php" class="read-more btn-read-more">Read More</a>
+                            <a href="weed.php" class="read-more btn-read-more">Read More</a>
                         </div>
                     </article>
                 </div>
                 <div class="item-three-column mg-bottom-60 wow fadeInUp">
                     <article class="flat-WCU-box grow-up-hover">
                         <div class="WCU-image">
-                            <img class="grow-up-hover" src="images/why-choose-us/5.jpg" alt="images">
+                            <img class="grow-up-hover" src="images/why-choose-us/6.jpg" alt="images">
                         </div>
                         <div class="features-box">
                             <span class="tf-icon icon2 icon-hanging-bot"></span>
                             <div class="content-features">
-                                <a href="tree.php">
+                                <a href="lands.php">
                                     <h3 class="section-heading-rubik-size20">Landscaping</h3>
                                 </a>
                                 <h6 class="section-desc">Installing an automatic irrigation system is a complex task. That’s why it...</h6>
                             </div>
                         </div>
                         <div class="button-read-more link-style2">
-                            <a href="tree.php" class="read-more btn-read-more">Read More</a>
+                            <a href="lands.php" class="read-more btn-read-more">Read More</a>
                         </div>
                     </article>
                 </div>
                 <div class="item-three-column mg-bottom-60 wow fadeInRight">
                     <article class="flat-WCU-box grow-up-hover">
                         <div class="WCU-image">
-                            <img class="grow-up-hover" src="images/why-choose-us/6.jpg" alt="images">
+                            <img class="grow-up-hover" src="images/why-choose-us/5.jpg" alt="images">
                         </div>
                         <div class="features-box">
                             <span class="tf-icon icon3 icon-spray"></span>
                             <div class="content-features">
-                                <a href="tree.php">
+                                <a href="irrigation.php">
                                     <h3 class="section-heading-rubik-size20">Irrigation</h3>
                                 </a>
                                 <h6 class="section-desc">An automatic sprinkler system is a home improvement project worth considering...</h6>
                             </div>
                         </div>
                         <div class="button-read-more link-style2">
-                            <a href="tree.php" class="read-more btn-read-more">Read More</a>
+                            <a href="irrigation.php" class="read-more btn-read-more">Read More</a>
                         </div>
                     </article>
                 </div>
@@ -387,7 +387,71 @@
         <!-- /about -->
 
 
-
+        <section class="flat-about-2nd">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="row">
+                            <div class="content-left">
+                                <div class="tag-logo">
+                                    <img src="icon/logo-dark.png" alt="images">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="content-right link-style3">
+                            <h4 class="section-subtitle white wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">ABOUT US</h4>
+                            <h3 class="section-title white wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">We Have The Perfect soluion For You</h3>
+                            <p class="section-desc white wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">Lorem Ipsum is simply dummy text of free
+                                available in market the typesetting industry has been the industry's standard dummy text
+                                ever. Lorem Ipsum is simply dummy text of free available in market the printing</p>
+                            <div class="box">
+                                <div class="about-box wow fadeInLeft" style="visibility: visible; animation-name: fadeInLeft;">
+                                    <div class="about-box01">
+                                        <div class="icon-box01">
+                                            <span class="section-heading-jost-size20 icon">01</span>
+                                        </div>
+                                        <div class="content-box01">
+                                            <a href="services.html" class="section-heading-jost-size20 fw-600">Counter In Work.</a>
+                                            <p class="section-desc white">Lorem Ipsum is</p>
+                                        </div>
+                                    </div>
+                                    <div class="about-box-list">
+                                        <ul class="list-box">
+                                            <li> <a href="service-details.html"> available in market the printing</a></li>
+                                            <li> <a href="service-details.html"> Lorem Ipsum simply dummy </a></li>
+                                            <li> <a href="service-details.html"> market the printing </a> </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="about-box wow fadeInRight" style="visibility: visible; animation-name: fadeInRight;">
+                                    <div class="about-box02">
+                                        <div class="icon-box02">
+                                            <span class="section-heading-jost-size20 icon">02</span>
+                                        </div>
+                                        <div class="content-box02">
+                                            <a href="services.html" class="section-heading-jost-size20 fw-600">Counter In Work.</a>
+                                            <p class="section-desc white">Lorem Ipsum is</p>
+                                        </div>
+                                    </div>
+                                    <div class="about-box-list2">
+                                        <ul class="list-box">
+                                            <li> <a href="service-details.html"> market the printing typesetting</a></li>
+                                            <li> <a href="service-details.html"> available in market the printing</a></li>
+                                            <li> <a href="service-details.html"> Lorem Ipsum simply free</a> </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-12">
+                <div class="themesflat-spacer clearfix" data-desktop="0" data-mobile="60" data-smobile="60" style="height:0px"></div>
+            </div>
+        </section>
 
 
         <!-- Testimonials -->
@@ -575,15 +639,15 @@
                                     </div>
                                     <div class="news-content-box bd-radius-8">
                                         <div class="news-date link-style2">
-                                            <a href="blog.php" class="section-heading-rubik-size14">Tree Care</a>
+                                            <a href="tree.php" class="section-heading-rubik-size14">Tree Care</a>
                                         </div>
                                         <ul class="mg-top-15 mg-bottom5 d-flex">
-                                            <li><a href="blog-detail.html" class="user section-heading-rubik-size12">BY ADMIN</a></li>
-                                            <li><a href="blog.php" class="folder section-heading-rubik-size12">Tree Advisor</a></li>
+                                            <li><a href="tree.php" class="user section-heading-rubik-size12">BY ADMIN</a></li>
+                                            <li><a href="tree.php" class="folder section-heading-rubik-size12">Tree Advisor</a></li>
                                         </ul>
-                                        <a href="blog-detail.html" class="section-heading-rubik-size20 fw-500">Trees are beautiful and can be an asset to...</a>
+                                        <a href="tree.php" class="section-heading-rubik-size20 fw-500">Trees are beautiful and can be an asset to...</a>
                                         <div class="news-read-more link-style2 mg-top-15">
-                                            <a href="blog-detail.html" class="news-rm section-heading-rubik-size16">READ MORE</a>
+                                            <a href="tree" class="news-rm section-heading-rubik-size16">READ MORE</a>
                                         </div>
                                     </div>
                                 </article>
@@ -596,15 +660,15 @@
                                     </div>
                                     <div class="news-content-box bd-radius-8">
                                         <div class="news-date link-style2">
-                                            <a href="blog.php" class="section-heading-rubik-size14">Lawn Care</a>
+                                            <a href="lawn.php" class="section-heading-rubik-size14">Lawn Care</a>
                                         </div>
                                         <ul class="mg-top-15 mg-bottom5 d-flex">
-                                            <li><a href="blog-detail.html" class="user section-heading-rubik-size12">BY ADMIN</a></li>
-                                            <li><a href="blog.php" class="folder section-heading-rubik-size12">Tree Advisor</a></li>
+                                            <li><a href="lawn.php" class="user section-heading-rubik-size12">BY ADMIN</a></li>
+                                            <li><a href="lawn.php" class="folder section-heading-rubik-size12">Tree Advisor</a></li>
                                         </ul>
-                                        <a href="blog-detail.html" class="section-heading-rubik-size20 fw-500">The single most important aspect of having...</a>
+                                        <a href="lawn.php" class="section-heading-rubik-size20 fw-500">The single most important aspect of having...</a>
                                         <div class="news-read-more link-style2 mg-top-15">
-                                            <a href="blog-detail.html" class="news-rm section-heading-rubik-size16">READ MORE</a>
+                                            <a href="lawn.php" class="news-rm section-heading-rubik-size16">READ MORE</a>
                                         </div>
                                     </div>
                                 </article>
@@ -617,15 +681,15 @@
                                     </div>
                                     <div class="news-content-box bd-radius-8">
                                         <div class="news-date link-style2">
-                                            <a href="blog.php" class="section-heading-rubik-size14">Pest Control</a>
+                                            <a href="pest.php" class="section-heading-rubik-size14">Pest Control</a>
                                         </div>
                                         <ul class="mg-top-15 mg-bottom5 d-flex">
-                                            <li><a href="blog-detail.html" class="user section-heading-rubik-size12">BY ADMIN</a></li>
-                                            <li><a href="blog.php" class="folder section-heading-rubik-size12">Tree Advisor</a></li>
+                                            <li><a href="pest.php" class="user section-heading-rubik-size12">BY ADMIN</a></li>
+                                            <li><a href="pest.php" class="folder section-heading-rubik-size12">Tree Advisor</a></li>
                                         </ul>
-                                        <a href="blog-detail.html" class="section-heading-rubik-size20 fw-500">The best way to control lawn pests is to identify...</a>
+                                        <a href="pest.php" class="section-heading-rubik-size20 fw-500">The best way to control lawn pests is to identify...</a>
                                         <div class="news-read-more link-style2 mg-top-15">
-                                            <a href="blog-detail.html" class="news-rm section-heading-rubik-size16">READ MORE</a>
+                                            <a href="pest.php" class="news-rm section-heading-rubik-size16">READ MORE</a>
                                         </div>
                                     </div>
                                 </article>
@@ -638,36 +702,15 @@
                                     </div>
                                     <div class="news-content-box bd-radius-8">
                                         <div class="news-date link-style2">
-                                            <a href="blog.php" class="section-heading-rubik-size14">Weed Control</a>
+                                            <a href="weed.php" class="section-heading-rubik-size14">Weed Control</a>
                                         </div>
                                         <ul class="mg-top-15 mg-bottom5 d-flex">
-                                            <li><a href="blog-detail.html" class="user section-heading-rubik-size12">BY ADMIN</a></li>
-                                            <li><a href="blog.php" class="folder section-heading-rubik-size12">Tree Advisor</a></li>
+                                            <li><a href="weed.php" class="user section-heading-rubik-size12">BY ADMIN</a></li>
+                                            <li><a href="weed.php" class="folder section-heading-rubik-size12">Tree Advisor</a></li>
                                         </ul>
-                                        <a href="blog-detail.html" class="section-heading-rubik-size20 fw-500">Another basic pro lawn secret is to stay on...</a>
+                                        <a href="weed.php" class="section-heading-rubik-size20 fw-500">Another basic pro lawn secret is to stay on...</a>
                                         <div class="news-read-more link-style2 mg-top-15">
-                                            <a href="blog-detail.html" class="news-rm section-heading-rubik-size16">READ MORE</a>
-                                        </div>
-                                    </div>
-                                </article>
-                            </div>
-                            <div class="item">
-                                <article class="flat-news-box grow-up-hover">
-                                    <div class="news-image bd-radius-8">
-                                        <img src="images/blog/5.jpg" class="grow-up-hover"
-                                            alt="images">
-                                    </div>
-                                    <div class="news-content-box bd-radius-8">
-                                        <div class="news-date link-style2">
-                                            <a href="blog.php" class="section-heading-rubik-size14">Landscaping</a>
-                                        </div>
-                                        <ul class="mg-top-15 mg-bottom5 d-flex">
-                                            <li><a href="blog-detail.html" class="user section-heading-rubik-size12">BY ADMIN</a></li>
-                                            <li><a href="blog.php" class="folder section-heading-rubik-size12">Tree Advisor</a></li>
-                                        </ul>
-                                        <a href="blog-detail.html" class="section-heading-rubik-size20 fw-500">An automatic sprinkler system is a home...</a>
-                                        <div class="news-read-more link-style2 mg-top-15">
-                                            <a href="blog-detail.html" class="news-rm section-heading-rubik-size16">READ MORE</a>
+                                            <a href="weed.php" class="news-rm section-heading-rubik-size16">READ MORE</a>
                                         </div>
                                     </div>
                                 </article>
@@ -680,15 +723,36 @@
                                     </div>
                                     <div class="news-content-box bd-radius-8">
                                         <div class="news-date link-style2">
-                                            <a href="blog.php" class="section-heading-rubik-size14">Irrigation</a>
+                                            <a href="irrigation.php" class="section-heading-rubik-size14">Irrigation</a>
                                         </div>
                                         <ul class="mg-top-15 mg-bottom5 d-flex">
-                                            <li><a href="blog-detail.html" class="user section-heading-rubik-size12">BY ADMIN</a></li>
-                                            <li><a href="blog.php" class="folder section-heading-rubik-size12">Tree Advisor</a></li>
+                                            <li><a href="irrigation.php" class="user section-heading-rubik-size12">BY ADMIN</a></li>
+                                            <li><a href="irrigation.php" class="folder section-heading-rubik-size12">Tree Advisor</a></li>
                                         </ul>
-                                        <a href="blog-detail.html" class="section-heading-rubik-size20 fw-500">An automatic sprinkler system is a home...</a>
+                                        <a href="irrigation.php" class="section-heading-rubik-size20 fw-500">An automatic sprinkler system is a home...</a>
                                         <div class="news-read-more link-style2 mg-top-15">
-                                            <a href="blog-detail.html" class="news-rm section-heading-rubik-size16">READ MORE</a>
+                                            <a href="irrigation.php" class="news-rm section-heading-rubik-size16">READ MORE</a>
+                                        </div>
+                                    </div>
+                                </article>
+                            </div>
+                            <div class="item">
+                                <article class="flat-news-box grow-up-hover">
+                                    <div class="news-image bd-radius-8">
+                                        <img src="images/blog/5.jpg" class="grow-up-hover"
+                                            alt="images">
+                                    </div>
+                                    <div class="news-content-box bd-radius-8">
+                                        <div class="news-date link-style2">
+                                            <a href="lands.php" class="section-heading-rubik-size14">Landscaping</a>
+                                        </div>
+                                        <ul class="mg-top-15 mg-bottom5 d-flex">
+                                            <li><a href="lands.php" class="user section-heading-rubik-size12">BY ADMIN</a></li>
+                                            <li><a href="lands.php" class="folder section-heading-rubik-size12">Tree Advisor</a></li>
+                                        </ul>
+                                        <a href="lands.php" class="section-heading-rubik-size20 fw-500">An automatic sprinkler system is a home...</a>
+                                        <div class="news-read-more link-style2 mg-top-15">
+                                            <a href="lands.php" class="news-rm section-heading-rubik-size16">READ MORE</a>
                                         </div>
                                     </div>
                                 </article>

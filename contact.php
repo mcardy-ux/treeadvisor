@@ -30,14 +30,14 @@
                 <div class="row">
                     <div class="col-md-5 wow fadeInUp">
                         <div class="contact-left">
-                        <h3 class="section-subtitle">Ask a PRO</h3>
+                        <h3 class="section-subtitle" style="text-align:left; font-size:23px;">Ask a PRO</h3>
                             <h2 class="section-title">Talk to a certified specialist about your problem. </h2><br>
                             <div class="address-box mg-bottom30">
                                 <div class="contact-location icon-map"></div>
                                 <div class="info text-pri2-color">
                                 <h3 class="section-heading-jost-size20">
                                             Our Address</h3>
-                                    <p class="desc-box">United States <br> Panama City - Florida</p>
+                                    <p class="desc-box">United States <br> Panama City Beach - Florida</p>
                                 </div>
                             </div>
                             <div class="address-box mg-bottom30">
@@ -54,7 +54,7 @@
                                 <a href="mailto:treeadvisor.org@gmail.com">
                                     <h3 class="section-heading-jost-size20">
                                             Our Email</h3>
-                                    <p class="desc-box"><a href="mailto:thearborist@treeadvisor.org">thearborist@treeadvisor.org</a></p>
+                                    <p class="desc-box"><a href="mailto:askthearborist@treeadvisor.org">askthearborist@treeadvisor.org</a></p>
                                 </div>
                             </div>
                         </div>

@@ -16,7 +16,7 @@ echo' <!-- footer -->
                                         <div class="location">
                                             <div class="icon-location"></div>
                                             <div class="content-location">
-                                                <div class="heading-16px-rubik">United States<br> Panama City - Florida
+                                                <div class="heading-16px-rubik">United States<br> Panama City Beach - Florida
                                                 </div>
                                             </div>
                                         </div>
@@ -33,7 +33,7 @@ echo' <!-- footer -->
                                         <div class="email">
                                             <div class="icon-email"></div>
                                             <div class="content-email">
-                                                <div class="heading-16px-rubik"><a href="mailto:thearborist@treeadvisor.org">thearborist<br>@treeadvisor.org</a></div>
+                                                <div class="heading-16px-rubik"><a href="mailto:askthearborist@treeadvisor.org">askthearborist<br>@treeadvisor.org</a></div>
                                             </div>
                                         </div>
                                     </div>

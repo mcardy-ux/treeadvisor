@@ -203,7 +203,7 @@
                             <br>
                             To help resolve any issues between Us promptly and directly, You and We agree to begin any arbitration within 15 days after a Subject Legal Claim arises; otherwise, the Subject Legal Claim is waived. 
                             <br>
-                            In an attempt to find the quickest and most efficient resolution of Our issues, You and We agree to first discuss any issue informally for at least 15 days. To do that, please send Your full name and contact information, Your concern and Your proposed solution by email to Us at thearborist@treeadvisor.org. If We should need to discuss an issue with You, We will contact You using the email or mailing address on Your Account. 
+                            In an attempt to find the quickest and most efficient resolution of Our issues, You and We agree to first discuss any issue informally for at least 15 days. To do that, please send Your full name and contact information, Your concern and Your proposed solution by email to Us at askthearborist@treeadvisor.org. If We should need to discuss an issue with You, We will contact You using the email or mailing address on Your Account. 
                             <br><br>
                             If We do not reach an agreed-upon solution after Our discussions for at least 15 days, You and We agree that any Subject Legal Claim that either of Us may have must be resolved through binding individual arbitration in USA in accordance with American Arbitration Association. 
                             <br>
@@ -301,7 +301,7 @@
                             </p>
                     <h3 class="section-heading-jost-size22 fw-500 text-pri2-color mg-bottom-15">24 User Feedback </h3>
                         <p class="section-desc mg-bottom-35">
-                            We welcome and encourage You to provide feedback, comments, and suggestions for improvements of the Website (“<strong>Feedback</strong>”). You may submit Feedback by emailing Us at thearborist@treeadvisor.org. You acknowledge and agree that if You submit any Feedback to Us, You hereby grant to Us a non-exclusive, worldwide, perpetual, irrevocable, fully-paid, royalty-free, sub-licensable (through several tiers) and transferable license under any and all intellectual property rights that You own or control in relation to the Feedback to use, reproduce, view, communicate to the public by any means, print, copy (whether onto hard disk or other media), edit, translate, perform and display (publicly or otherwise), distribute, redistribute, modify, adapt, make, sell, offer to sell, transmit, license, transfer, stream, broadcast, create derivative works from, and otherwise use and exploit the Feedback for any purpose. 
+                            We welcome and encourage You to provide feedback, comments, and suggestions for improvements of the Website (“<strong>Feedback</strong>”). You may submit Feedback by emailing Us at askthearborist@treeadvisor.org. You acknowledge and agree that if You submit any Feedback to Us, You hereby grant to Us a non-exclusive, worldwide, perpetual, irrevocable, fully-paid, royalty-free, sub-licensable (through several tiers) and transferable license under any and all intellectual property rights that You own or control in relation to the Feedback to use, reproduce, view, communicate to the public by any means, print, copy (whether onto hard disk or other media), edit, translate, perform and display (publicly or otherwise), distribute, redistribute, modify, adapt, make, sell, offer to sell, transmit, license, transfer, stream, broadcast, create derivative works from, and otherwise use and exploit the Feedback for any purpose. 
                              </p>
                     <h3 class="section-heading-jost-size22 fw-500 text-pri2-color mg-bottom-15">25 Notice for California Users </h3>
                         <p class="section-desc mg-bottom-35">
@@ -309,7 +309,7 @@
                             </p>
                     <h3 class="section-heading-jost-size22 fw-500 text-pri2-color mg-bottom-15">26 Contact Us </h3>
                         <p class="section-desc mg-bottom-35">
-                            If You do not understand any of the foregoing terms and conditions or if You have any questions or comments, please contact Us through TreeAdvisor.org, or at thearborist@treeadvisor.org 
+                            If You do not understand any of the foregoing terms and conditions or if You have any questions or comments, please contact Us through TreeAdvisor.org, or at askthearborist@treeadvisor.org 
                            <strong> YOU ACKNOWLEDGE THAT YOU HAVE READ THESE TERMS, UNDERSTAND THE TERMS, AND WILL BE BOUND BY THESE TERMS. YOU FURTHER ACKNOWLEDGE THAT THESE TERMS TOGETHER WITH THE PRIVACY POLICY REPRESENT THE COMPLETE AND EXCLUSIVE STATEMENT OF THE AGREEMENT BETWEEN US AND THAT IT SUPERSEDES ANY PROPOSAL OR PRIOR AGREEMENT ORAL OR WRITTEN, AND ANY OTHER COMMUNICATIONS BETWEEN US RELATING TO THE SUBJECT MATTER OF THIS AGREEMENT. </strong>
                         </p>    
                     </div> 
