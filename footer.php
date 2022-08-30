@@ -16,7 +16,7 @@ echo' <!-- footer -->
                                         <div class="location">
                                             <div class="icon-location"></div>
                                             <div class="content-location">
-                                                <div class="heading-16px-rubik">United States<br> Panama City Beach - Florida
+                                                <div class="heading-16px-rubik">Panama City Beach   - Florida
                                                 </div>
                                             </div>
                                         </div>
@@ -67,10 +67,12 @@ echo' <!-- footer -->
                                         Explore
                                     </p>
                                     <ul class="list-menu-1 text-decs link-style4">
-                                        <li><a href="services.php">Brangding Design</a> </li>
-                                        <li><a href="services.php">Ui/ux Designing</a> </li>
-                                        <li><a href="services.php">Maek Elements</a> </li>
-                                        <li><a href="services.php">Graphics Design</a> </li>
+                                        <li><a href="tree.php">Tree care</a> </li>
+                                        <li><a href="lawn.php">Lawn control</a> </li>
+                                        <li><a href="pest.php">Pest control</a> </li>
+                                        <li><a href="weed.php">Weed control</a> </li>
+                                        <li><a href="lands.php">Lanscaping</a> </li>
+                                        <li><a href="irrigation.php">Irrigation</a> </li>
                                     </ul>
                                 </div>
                             </div>

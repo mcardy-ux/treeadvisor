@@ -234,11 +234,11 @@
                                     Category
                                 </h3>
                                 <ul class="list-category">
-                                    <li><a href="#">Tempor lorem interdum</a></li>
-                                    <li><a href="#">Auctor mattis lacus </a></li>
-                                    <li><a href="#">Dolor proin </a></li>
-                                    <li><a href="#">Pharetra amet </a></li>
-                                    <li><a href="#">Nullam dolor gravida </a> </li>
+                                    <li><a href="lawn.php">lawn care</a></li>
+                                    <li><a href="pest.php">pest control</a></li>
+                                    <li><a href="weed.php">weed control</a></li>
+                                    <li><a href="lands.php">landscaping</a></li>
+                                    <li><a href="irrigation.php">irrigation</a></li>
                                 </ul>
                             </div>
                            
@@ -262,47 +262,6 @@
                                 </div>
                             </div>
                             <br>
-                            <div class="widget widget_lastest">
-                                <h2 class="widgets-side-bar-title"><span>Recent News</span></h2>
-                                <ul class="lastest-posts data-effect clearfix">
-                                    <li class="clearfix">
-                                        <div class="thumb data-effect-item has-effect-icon">
-                                            <img src="images/blog/medium-shot-woman-holding-plant-pot.jpg" alt="Image">
-                                            <div class="elm-link">
-                                                <a href="page-blog-single.html" class="icon-2"></a>
-                                            </div>
-                                        </div>
-                                        <div class="text">
-                                            <h3><a href="#" class="title-thumb">Integer at faucibus urna. Nullam condimentum</a></h3>
-                                            <a href="#" class="date">15 October</a>
-                                        </div>
-                                    </li>
-                                    <li class="clearfix">
-                                        <div class="thumb data-effect-item has-effect-icon">
-                                            <img src="images/blog/close-up-picture-hand-holding-wo.jpg" alt="Image">
-                                            <div class="elm-link">
-                                                <a href="page-blog-single.html" class="icon-2"></a>
-                                            </div>
-                                        </div>
-                                        <div class="text">
-                                            <h3><a href="#" class="title-thumb">Nunc scelerisque tincidunt estibulum</a></h3>
-                                            <a href="#" class="date">15 October</a>
-                                        </div>
-                                    </li>
-                                    <li class="clearfix">
-                                        <div class="thumb data-effect-item has-effect-icon">
-                                            <img src="images/blog/planting-flowers-thumb.jpg" alt="Image">
-                                            <div class="elm-link">
-                                                <a href="page-blog-single.html" class="icon-2"></a>
-                                            </div>
-                                        </div>
-                                        <div class="text">
-                                            <h3><a href="#" class="title-thumb">Cras eu elit congue, plac erat duicidunt nisl</a></h3>
-                                            <a href="#" class="date">15 October</a>
-                                        </div>
-                                    </li>
-                                </ul>
-                            </div>
                         </div>
                     </div>
                     <!-- /.col-md-4 -->

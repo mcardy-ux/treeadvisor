@@ -401,49 +401,8 @@
                     </div>
                     <div class="col-md-6">
                         <div class="content-right link-style3">
-                            <h4 class="section-subtitle white wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">ABOUT US</h4>
-                            <h3 class="section-title white wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">We Have The Perfect soluion For You</h3>
-                            <p class="section-desc white wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">Lorem Ipsum is simply dummy text of free
-                                available in market the typesetting industry has been the industry's standard dummy text
-                                ever. Lorem Ipsum is simply dummy text of free available in market the printing</p>
-                            <div class="box">
-                                <div class="about-box wow fadeInLeft" style="visibility: visible; animation-name: fadeInLeft;">
-                                    <div class="about-box01">
-                                        <div class="icon-box01">
-                                            <span class="section-heading-jost-size20 icon">01</span>
-                                        </div>
-                                        <div class="content-box01">
-                                            <a href="services.html" class="section-heading-jost-size20 fw-600">Counter In Work.</a>
-                                            <p class="section-desc white">Lorem Ipsum is</p>
-                                        </div>
-                                    </div>
-                                    <div class="about-box-list">
-                                        <ul class="list-box">
-                                            <li> <a href="service-details.html"> available in market the printing</a></li>
-                                            <li> <a href="service-details.html"> Lorem Ipsum simply dummy </a></li>
-                                            <li> <a href="service-details.html"> market the printing </a> </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                                <div class="about-box wow fadeInRight" style="visibility: visible; animation-name: fadeInRight;">
-                                    <div class="about-box02">
-                                        <div class="icon-box02">
-                                            <span class="section-heading-jost-size20 icon">02</span>
-                                        </div>
-                                        <div class="content-box02">
-                                            <a href="services.html" class="section-heading-jost-size20 fw-600">Counter In Work.</a>
-                                            <p class="section-desc white">Lorem Ipsum is</p>
-                                        </div>
-                                    </div>
-                                    <div class="about-box-list2">
-                                        <ul class="list-box">
-                                            <li> <a href="service-details.html"> market the printing typesetting</a></li>
-                                            <li> <a href="service-details.html"> available in market the printing</a></li>
-                                            <li> <a href="service-details.html"> Lorem Ipsum simply free</a> </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
+                            <h3 class="section-title white wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">Compare the best Pro's & deals.  Schedule service online in minutes</h3>
+                            <p class="section-desc white wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">No more waiting for return calls or on hold. Simply schedule, compare, and choose your PRO or DIY. No matter what kind of project help you need, get instant quotes from local pros through the experts at TreeAdvisor Outdoor Living. We help homeowners choose the best products and tools for any DIY project through our articles, reviews and recommendations. That’s why we created a free booklet guide list of different questions to ask the contractor, so you can hire the right one.</p>
                         </div>
                     </div>
                 </div>

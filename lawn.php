@@ -97,27 +97,7 @@
                                             There’s too many brands out there that you want to stay away from them that I don’t want to mention not to waste your time reading about it, instead I can recommend some good ones. 
                                              This recommendation is for homeowner lawnmowers. I will do another article for commercial ones. Just remember, a mower is only as good as the weekly, monthly and annual maintenance you provide.
                                         <br><br>
-                                       <!-- . no lo veo util pero no elimino el codigo por precaucion
-                                         / <ul class="nav-access-blog-detail">
-                                            <li><a href="#" class="tick">
-                                            Never do any tree work that involves falling trees, climbing of any kind, or using ladders and/or ropes
-                                            </a></li>
-                                            <li><a href="#" class="tick">
-                                            Never cut above shoulder height. If you have to hold the saw higher than your shoulder, the branches are too high, and you should not be using a chainsaw.
-                                            </a></li>
-                                            <li><a href="#" class="tick">
-                                            Professional tree workers are required by law to use the Personal Protective Equipment (PPE)
-                                            </a></li>
-                                            <li><a href="#" class="tick">
-                                            Homeowners should wear the same protection as the professional or NOT do the work at all!
-                                            </a></li>
-                                            <li><a href="#" class="tick">
-                                            Call a professional to handle all other situations.
-                                            </a></li>
-                                        </ul> -->
-            
 
-                                       
                                     </p>
                                     <hr>
                                     <div class="bottom-content">
@@ -158,11 +138,11 @@
                                     Category
                                 </h3>
                                 <ul class="list-category">
-                                    <li><a href="#">Tempor lorem interdum</a></li>
-                                    <li><a href="#">Auctor mattis lacus </a></li>
-                                    <li><a href="#">Dolor proin </a></li>
-                                    <li><a href="#">Pharetra amet </a></li>
-                                    <li><a href="#">Nullam dolor gravida </a> </li>
+                                    <li><a href="lawn.php">lawn care</a></li>
+                                    <li><a href="pest.php">pest control</a></li>
+                                    <li><a href="weed.php">weed control</a></li>
+                                    <li><a href="lands.php">landscaping</a></li>
+                                    <li><a href="irrigation.php">irrigation</a></li>
                                 </ul>
                             </div>
                            
@@ -184,48 +164,6 @@
 
                                     </div>
                                 </div>
-                            </div>
-                            <br>
-                            <div class="widget widget_lastest">
-                                <h2 class="widgets-side-bar-title"><span>Recent News</span></h2>
-                                <ul class="lastest-posts data-effect clearfix">
-                                    <li class="clearfix">
-                                        <div class="thumb data-effect-item has-effect-icon">
-                                            <img src="images/blog/medium-shot-woman-holding-plant-pot.jpg" alt="Image">
-                                            <div class="elm-link">
-                                                <a href="page-blog-single.html" class="icon-2"></a>
-                                            </div>
-                                        </div>
-                                        <div class="text">
-                                            <h3><a href="#" class="title-thumb">Integer at faucibus urna. Nullam condimentum</a></h3>
-                                            <a href="#" class="date">15 October</a>
-                                        </div>
-                                    </li>
-                                    <li class="clearfix">
-                                        <div class="thumb data-effect-item has-effect-icon">
-                                            <img src="images/blog/close-up-picture-hand-holding-wo.jpg" alt="Image">
-                                            <div class="elm-link">
-                                                <a href="page-blog-single.html" class="icon-2"></a>
-                                            </div>
-                                        </div>
-                                        <div class="text">
-                                            <h3><a href="#" class="title-thumb">Nunc scelerisque tincidunt estibulum</a></h3>
-                                            <a href="#" class="date">15 October</a>
-                                        </div>
-                                    </li>
-                                    <li class="clearfix">
-                                        <div class="thumb data-effect-item has-effect-icon">
-                                            <img src="images/blog/planting-flowers-thumb.jpg" alt="Image">
-                                            <div class="elm-link">
-                                                <a href="page-blog-single.html" class="icon-2"></a>
-                                            </div>
-                                        </div>
-                                        <div class="text">
-                                            <h3><a href="#" class="title-thumb">Cras eu elit congue, plac erat duicidunt nisl</a></h3>
-                                            <a href="#" class="date">15 October</a>
-                                        </div>
-                                    </li>
-                                </ul>
                             </div>
                         </div>
                     </div>
