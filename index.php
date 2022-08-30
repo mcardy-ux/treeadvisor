@@ -219,8 +219,7 @@
                             <img class="grow-up-hover" src="images/why-choose-us/1.jpg" alt="images">
                         </div>
                         <div class="features-box">
-                            <span class="tf-icon icon-hand-gloves"></span>
-                            
+                            <img class="tf-icon" src="images/icons/tree-icon.png" style="height: 90px;">
                             <div class="content-features">
                                 <a href="tree.php">
                                     <h3 class="section-heading-rubik-size20">Tree Care</h3>
@@ -239,7 +238,7 @@
                             <img class="grow-up-hover" src="images/why-choose-us/2.jpg" alt="images">
                         </div>
                         <div class="features-box">
-                            <span class="tf-icon icon2 icon-farming"></span>
+                            <img class="tf-icon" src="images/icons/lawn-icon.png" style="height: 90px;">
                             <div class="content-features">
                                 <a href="lawn.php">
                                     <h3 class="section-heading-rubik-size20">Lawn Care</h3>
@@ -258,7 +257,7 @@
                             <img class="grow-up-hover" src="images/why-choose-us/3.jpg" alt="images">
                         </div>
                         <div class="features-box">
-                            <span class="tf-icon icon3 icon-Group-661"></span>
+                            <img class="tf-icon" src="images/icons/pest-icon.png" style="height: 90px;">
                             <div class="content-features">
                                 <a href="pest.php">
                                     <h3 class="section-heading-rubik-size20">Pest Control</h3>
@@ -277,7 +276,7 @@
                             <img class="grow-up-hover" src="images/why-choose-us/4.jpg" alt="images">
                         </div>
                         <div class="features-box">
-                            <span class="tf-icon icon-fruit-box"></span>
+                            <img class="tf-icon" src="images/icons/weed-icon.png" style="height: 90px;">
                             <div class="content-features">
                                 <a href="weed.php">
                                     <h3 class="section-heading-rubik-size20">Weed Control</h3>
@@ -296,7 +295,7 @@
                             <img class="grow-up-hover" src="images/why-choose-us/6.jpg" alt="images">
                         </div>
                         <div class="features-box">
-                            <span class="tf-icon icon2 icon-hanging-bot"></span>
+                            <img class="tf-icon" src="images/icons/lands-icon.png" style="height: 90px;">
                             <div class="content-features">
                                 <a href="lands.php">
                                     <h3 class="section-heading-rubik-size20">Landscaping</h3>
@@ -315,7 +314,7 @@
                             <img class="grow-up-hover" src="images/why-choose-us/5.jpg" alt="images">
                         </div>
                         <div class="features-box">
-                            <span class="tf-icon icon3 icon-spray"></span>
+                            <img class="tf-icon" src="images/icons/irrigation-icon.png" style="height: 90px;">
                             <div class="content-features">
                                 <a href="irrigation.php">
                                     <h3 class="section-heading-rubik-size20">Irrigation</h3>
