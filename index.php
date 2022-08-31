@@ -262,7 +262,7 @@
                                 <a href="pest.php">
                                     <h3 class="section-heading-rubik-size20">Pest Control</h3>
                                 </a>
-                                <h6 class="section-desc">The best way to control lawn pests is to identify...</h6>
+                                <h6 class="section-desc">The best way to control lawn pests is to identify them correctly, get to know...</h6>
                             </div>
                         </div>
                         <div class="button-read-more link-style2">

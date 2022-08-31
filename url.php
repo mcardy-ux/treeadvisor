@@ -14,7 +14,8 @@
   <style>
     /* Style Settings */
     body {
-      background-color: white;
+      background-image: url(images/blog/tree2-url.jpg) ;
+      background-size:cover;
       font-family: "Roboto", sans-serif;
       margin: auto;
       padding: 10px;
@@ -63,7 +64,7 @@
     .link {
       display: block;
       background-color: #e6e6e6;
-      color: #1c1c1c;
+      color: #348e38;
       font-family: inherit;
       text-align: center;
       margin-bottom: 20px;
@@ -72,11 +73,6 @@
       font-size: 20px;
       border: solid #e6e6e6 2px;
       box-shadow: 0px 7px 15px rgba(20, 20, 20, 0.5);
-    }
-
-    .link:hover {
-      background-color: #1c1c1c;
-      color: #e6e6e6;
     }
 
     .icon-container {
@@ -90,43 +86,26 @@
     }
 
     .icon {
-      font-size: 30px;
-      color: #bbb;
-      opacity: 0.6;
+      font-size: 30.5px;
+      color: #fff;
       height: 30px;
       text-decoration: none;
-    }
-
-    .icon:hover {
-      color: black;
-      opacity: 1.6;
+      margin-right: 3px;
     }
 
     p {
       text-align: center;
-      color: #bbb;
+      color: #fff;
     }
 
     /*This Glowing Hover Effect was made by qpi65 , i used it to Highlight my name */
     h1 {
-      color: #484848;
+      color: #ffffff !important;
       font-size: 30px;
       font-weight: bold;
       font-family: monospace;
       letter-spacing: 7px;
       cursor: pointer
-    }
-
-    h1 span {
-      transition: .5s linear
-    }
-
-    h1:hover span {
-      color: Black;
-      text-shadow:
-        0 0 10px #fff,
-        0 0 20px white,
-        0 0 40px black;
     }
 
     /*This Glowing Hover Effect was made by qpi65 , i used it to Highlight my name */
@@ -146,7 +125,7 @@
     <a class="link" href="#" target="_blank"><i class="fab fa-tiktok" style="padding:10px"></i>TikTok</a>
   </div>
   <div class="Bottom-Section">
-    <p style="color:black">You Can Also Find me Here:</p>
+    <p style="color: #fff">You Can Also Find me Here:</p>
     <div class="icon-container">
       <a class="icon" href="#" target="_blank"><i class="fa fa-medium"></i></a>
       <a class="icon" href="#" target="_blank"><i class="fa fa-pinterest"></i></a>
@@ -157,7 +136,7 @@
   </div>
   <footer style="text-align:center;">
 
-    <p style="color:black">Powered by : <a class="icon" href="https://co0lray.github.io/co0lray/" target="_blank">treeAdvisor</p>
+    <p style="color:#fff">Powered by : <a class="icon" href="https://co0lray.github.io/co0lray/" target="_blank">treeAdvisor</p>
   </footer>
 
   <!-- Javascript -->
