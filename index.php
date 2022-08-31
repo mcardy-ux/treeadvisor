@@ -393,7 +393,7 @@
                         <div class="row">
                             <div class="content-left">
                                 <div class="tag-logo">
-                                    <img src="icon/logo-dark.png" alt="images">
+                                <img src="images/icons/logo_green.png" alt="images" style="width: 230px;">
                                 </div>
                             </div>
                         </div>

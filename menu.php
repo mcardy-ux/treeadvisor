@@ -39,7 +39,7 @@ echo'<div class="boxed blog">
                             <div class="inner-header">
                                 <div class="logo-header">
                                     <a href="index.php" title="">
-                                    <img src="icon/logo_opt.png" alt="images" style="max-width: 230px;">
+                                    <img src="images/icons/logo_green.png" alt="images" style="max-width: 230px;">
                                     </a>
                                 </div>
                                 <!-- /#logo -->
