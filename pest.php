@@ -35,7 +35,7 @@
                             <div class="content-blog-detail">
                                 <div class="image-box">
                                     <div class="image">
-                                        <img src="images/blog/tree1.jpg" alt="image">
+                                        <img src="images/blog/pest1.jpg" alt="image">
                                     </div>
                                 </div>
                                 <div class="content mg-top-15">
@@ -61,7 +61,7 @@
                                 
                                     <div class="image-box">
                                         <div class="image-2">
-                                            <img src="images/blog/tree2.jpg" alt="image">
+                                            <img src="images/blog/pest2.jpg" alt="image">
                                         </div>
                                     </div>
                                     <h5 class="content-2 heading-content-box" style="color:#348e38 !important;">Effective Lawn Pest Control</h5>
