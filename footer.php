@@ -7,7 +7,7 @@ echo' <!-- footer -->
                         <div class="top-footer wow fadeInDown">
                             <div class="top-footer-left">
                                 <div class="logo-footer">
-                                    <a href="index.php"><img src="icon/logo-light.png" alt="images"></a>
+                                    <a href="index.php"><img src="images/icons/logo_white.png" alt="images"></a>
                                 </div>
                             </div>
                             <div class="top-footer-right">
