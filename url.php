@@ -63,15 +63,15 @@
 
     .link {
       display: block;
-      background-color: #e6e6e6;
-      color: #348e38;
+      background-color: #348e38;
+      color: #fff;
       font-family: inherit;
       text-align: center;
       margin-bottom: 20px;
       padding: 17px;
       text-decoration: none;
       font-size: 20px;
-      border: solid #e6e6e6 2px;
+      border: solid #348e38 2px;
       box-shadow: 0px 7px 15px rgba(20, 20, 20, 0.5);
     }
 
@@ -90,12 +90,13 @@
       color: #fff;
       height: 30px;
       text-decoration: none;
-      margin-right: 3px;
+      margin-right: 8px;
     }
 
     p {
       text-align: center;
       color: #fff;
+      font-size: 23.5px;
     }
 
     /*This Glowing Hover Effect was made by qpi65 , i used it to Highlight my name */
@@ -105,16 +106,19 @@
       font-weight: bold;
       font-family: monospace;
       letter-spacing: 7px;
-      cursor: pointer
+      cursor: pointer ;
+      margin: 5px ;
     }
 
     /*This Glowing Hover Effect was made by qpi65 , i used it to Highlight my name */
   </style>
-  <img id="userPhoto" src="icon/Favicon.png" alt="User Photo">
-  <a class="icon" href="https://treeadvisor.org" id="userName" target="_blank">
-    <h1><span>Tree Advisor</span></h1>
-  </a>
-  <div id="links">
+  <div style="margin-bottom: 50px !important; ">
+      <img id="userPhoto" src="icon/Favicon.png" alt="User Photo">
+      <a class="icon" href="https://treeadvisor.org" id="userName" target="_blank">
+        <h1><span>Tree Advisor</span></h1>
+      </a>
+  </div>
+  <div style id="links">
     
     
     <a class="link" href="#" target="_blank"><i class="fa fa-amazon" style="padding:10px"></i> Amazon </a>
@@ -134,10 +138,6 @@
       <a class="icon" href="#" target="_blank"><i class="fa fa-snapchat"></i></a>
     </div>
   </div>
-  <footer style="text-align:center;">
-
-    <p style="color:#fff">Powered by : <a class="icon" href="https://co0lray.github.io/co0lray/" target="_blank">treeAdvisor</p>
-  </footer>
 
   <!-- Javascript -->
   <script src="https://kit.fontawesome.com/7e482ae4fd.js"></script>
