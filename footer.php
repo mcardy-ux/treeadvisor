@@ -90,6 +90,10 @@ echo' <!-- footer -->
                                             <h3 class="heading-menu2"><a href="TermsConditions.php"> Terms Conditions.</a>
                                             </h3>
                                         </li>
+                                        <li>
+                                            <h3 class="heading-menu2"><a href="california_privacy.php"> california Privacy.</a>
+                                            </h3>
+                                        </li>
                                     </ul>
                                 </div>
                             </div>
