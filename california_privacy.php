@@ -15,12 +15,11 @@
                         <thead>
                         <tr>
                         <th>
-                        <p>Category of Personal Information</p>
-                        </th>
-                        <th>Sources of Personal Information</th>
-                        <th>Purposes for Collection</th>
-                        <th>Categories of Third Parties with whom Personal Information is shared</th>
-                        <th>Purposes of third Parties Receiving PI</th>
+                        <p class="section-heading-jost-size22 fw-500 text-pri2-color mg-bottom-15 center" style="color: #ffffff !important;">Category of Personal Information</p></th>
+                        <th><p class="section-heading-jost-size22 fw-500 text-pri2-color mg-bottom-15 center" style="color: #ffffff !important;">Sources of Personal Information</p></th>
+                        <th><p class="section-heading-jost-size22 fw-500 text-pri2-color mg-bottom-15 center" style="color: #ffffff !important;">Purposes for Collection</p></th>
+                        <th><p class="section-heading-jost-size22 fw-500 text-pri2-color mg-bottom-15 center" style="color: #ffffff !important;">Categories of Third Parties with whom Personal Information is shared</p></th>
+                        <th><p class="section-heading-jost-size22 fw-500 text-pri2-color mg-bottom-15 center" style="color: #ffffff !important;">Purposes of third Parties Receiving PI</p></th>
                         </tr>
                         </thead>
                         <tbody>
