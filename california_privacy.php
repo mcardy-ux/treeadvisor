@@ -25,53 +25,53 @@
                         </thead>
                         <tbody>
                         <tr>
-                        <td><strong>identifiers.</strong> <br> (e.g. name, phone Number, Email Address, I.P. Address, Account name)</td>
-                        <td>Directly from you; authentication partners; Payment Vendors</td>
-                        <td>Delivering services requested by you; processing and managing interactions and transactions; Research and Development; quality assurance; improving TreeAdvisor services; security; fraud prevention; marketing; debugging</td>
-                        <td>TreeAdvisor affiliates; Service Professionals; Vendors which assist us in providing services and running our internal business operations (“Vendors”)</td>
-                        <td>Performing services on behalf of TreeAdvisor; processing and managing interactions and transactions; Research and Development; quality assurance; improving TreeAdvisor services; security; fraud prevention; marketing; debugging</td>
+                        <td><p class="section-desc mg-bottom-35"><strong>identifiers.</strong> <br> (e.g. name, phone Number, Email Address, I.P. Address, Account name)</p></td>
+                        <td><p class="section-desc mg-bottom-35">Directly from you; authentication partners; Payment Vendors</p></td>
+                        <td><p class="section-desc mg-bottom-35">Delivering services requested by you; processing and managing interactions and transactions; Research and Development; quality assurance; improving TreeAdvisor services; security; fraud prevention; marketing; debugging</p></td>
+                        <td><p class="section-desc mg-bottom-35">TreeAdvisor affiliates; Service Professionals; Vendors which assist us in providing services and running our internal business operations (“Vendors”)</p></td>
+                        <td><p class="section-desc mg-bottom-35">Performing services on behalf of TreeAdvisor; processing and managing interactions and transactions; Research and Development; quality assurance; improving TreeAdvisor services; security; fraud prevention; marketing; debugging</p></td>
                         </tr>
                         <tr>
-                        <td><strong>Personal Records</strong> <br> (e.g. Name, Phone Number, Email Address) </td>
-                        <td>Directly from you; authentication partners; Payment Vendors</td>
-                        <td>Delivering services requested by you; processing and managing interactions and transactions; Research and Development; quality assurance; improving TreeAdvisor services; security; fraud prevention; marketing; debugging </td>
-                        <td>TreeAdvisor affiliates; Service Professionals; Vendors </td>
-                        <td>Performing services on behalf of TreeAdvisor; processing and managing interactions and transactions; Research and Development; quality assurance; improving TreeAdvisor services; security; fraud prevention; marketing; debugging</td>
+                        <td><p class="section-desc mg-bottom-35"><strong>Personal Records</strong> <br> (e.g. Name, Phone Number, Email Address) </p></td>
+                        <td><p class="section-desc mg-bottom-35">Directly from you; authentication partners; Payment Vendors</p></td>
+                        <td><p class="section-desc mg-bottom-35">Delivering services requested by you; processing and managing interactions and transactions; Research and Development; quality assurance; improving TreeAdvisor services; security; fraud prevention; marketing; debugging </p></td>
+                        <td><p class="section-desc mg-bottom-35">TreeAdvisor affiliates; Service Professionals; Vendors </p></td>
+                        <td><p class="section-desc mg-bottom-35">Performing services on behalf of TreeAdvisor; processing and managing interactions and transactions; Research and Development; quality assurance; improving TreeAdvisor services; security; fraud prevention; marketing; debugging</p></td>
                         </tr>
                         <tr>
-                        <td><strong>Consumer Characteristics </strong></td>
-                        <td>Data Enrichment Tools</td>
-                        <td>Delivering services requested by you; marketing </td>
-                        <td>Vendors</td>
-                        <td>Delivering services requested by you; marketing </td>
+                        <td><p class="section-desc mg-bottom-35"><strong>Consumer Characteristics </strong></p></td>
+                        <td><p class="section-desc mg-bottom-35">Data Enrichment Tools</p></td>
+                        <td><p class="section-desc mg-bottom-35">Delivering services requested by you; marketing </p></td>
+                        <td><p class="section-desc mg-bottom-35">Vendors</p></td>
+                        <td><p class="section-desc mg-bottom-35">Delivering services requested by you; marketing </p></td>
                         </tr>
                         <tr>
-                        <td><strong>Customer Account Details / Commercial Information </strong> <br>(e.g. details of service requests) </td>
-                        <td>Directly from you; Data Enrichment Tools; Payment Vendors</td>
-                        <td>Delivering services requested by you; processing and managing interactions and transactions; Research and Development; quality assurance; improving TreeAdvisor services; security; fraud prevention; marketing; debugging</td>
-                        <td>TreeAdvisor affiliates; Service Professionals; Vendors</td>
-                        <td>Delivering services requested by you; processing and managing interactions and transactions; Research and Development; quality assurance; improving TreeAdvisor services; security; fraud prevention; marketing; debugging</td>
+                        <td><p class="section-desc mg-bottom-35"><strong>Customer Account Details / Commercial Information </strong> <br>(e.g. details of service requests) </p></td>
+                        <td><p class="section-desc mg-bottom-35">Directly from you; Data Enrichment Tools; Payment Vendors</p></td>
+                        <td><p class="section-desc mg-bottom-35">Delivering services requested by you; processing and managing interactions and transactions; Research and Development; quality assurance; improving TreeAdvisor services; security; fraud prevention; marketing; debugging</p></td>
+                        <td><p class="section-desc mg-bottom-35">TreeAdvisor affiliates; Service Professionals; Vendors</p></td>
+                        <td><p class="section-desc mg-bottom-35">Delivering services requested by you; processing and managing interactions and transactions; Research and Development; quality assurance; improving TreeAdvisor services; security; fraud prevention; marketing; debugging</p></td>
                         </tr>
                         <tr>
-                        <td><strong>Internet Usage Information</strong> <br> (e.g. information regarding your interaction with our services) </td>
-                        <td>Directly from you; analytics partners; advertising partners</td>
-                        <td>Delivering services requested by you; processing and managing interactions and transactions; Research and Development; quality assurance; improving TreeAdvisor services; security; fraud prevention; marketing; debugging measuring advertising efficacy </td>
-                        <td>Vendors</td>
-                        <td>Delivering services requested by you; processing and managing interactions and transactions; Research and Development; quality assurance; improving TreeAdvisor services; security; fraud prevention; marketing; debugging</td>
+                        <td><p class="section-desc mg-bottom-35"><strong>Internet Usage Information</strong> <br> (e.g. information regarding your interaction with our services) </p></td>
+                        <td><p class="section-desc mg-bottom-35">Directly from you; analytics partners; advertising partners</p></td>
+                        <td><p class="section-desc mg-bottom-35">Delivering services requested by you; processing and managing interactions and transactions; Research and Development; quality assurance; improving TreeAdvisor services; security; fraud prevention; marketing; debugging measuring advertising efficacy </p></td>
+                        <td><p class="section-desc mg-bottom-35">Vendors</p></td>
+                        <td><p class="section-desc mg-bottom-35">Delivering services requested by you; processing and managing interactions and transactions; Research and Development; quality assurance; improving TreeAdvisor services; security; fraud prevention; marketing; debugging</p></td>
                         </tr>
                         <tr>
-                        <td><strong>Sensory Data</strong> <br> (e.g. recordings of customer service calls) </td>
-                        <td>Directly from you </td>
-                        <td>Delivering services requested by you; processing and managing interactions and transactions; Research and Development; quality assurance; improving TreeAdvisor services; security; fraud prevention</td>
-                        <td>Vendors</td>
-                        <td>Delivering services requested by you; processing and managing interactions and transactions; Research and Development; quality assurance; security; fraud prevention</td>
+                        <td><p class="section-desc mg-bottom-35"><strong>Sensory Data</strong> <br> (e.g. recordings of customer service calls) </p></td>
+                        <td><p class="section-desc mg-bottom-35">Directly from you </p></td>
+                        <td><p class="section-desc mg-bottom-35">Delivering services requested by you; processing and managing interactions and transactions; Research and Development; quality assurance; improving TreeAdvisor services; security; fraud prevention</p></td>
+                        <td><p class="section-desc mg-bottom-35">Vendors</p></td>
+                        <td><p class="section-desc mg-bottom-35">Delivering services requested by you; processing and managing interactions and transactions; Research and Development; quality assurance; security; fraud prevention</p></td>
                         </tr>
                         <tr>
-                        <td><strong>Inferences from PI Collected</strong> <br> (e.g. your preferences, likelihood of interest in certain of our services) </td>
-                        <td>Data Management providers; advertising partners; internal systems</td>
-                        <td>Delivering services requested by you; Measuring advertising efficacy; marketing; improving TreeAdvisor services</td>
-                        <td>Vendors</td>
-                        <td>Performing services on behalf of TreeAdvisor; processing and managing interactions and transactions; quality assurance; improving TreeAdvisor services; security; fraud prevention; marketing; debugging</td>
+                        <td><p class="section-desc mg-bottom-35"><strong>Inferences from PI Collected</strong> <br> (e.g. your preferences, likelihood of interest in certain of our services) </p></td>
+                        <td><p class="section-desc mg-bottom-35">Data Management providers; advertising partners; internal systems</p></td>
+                        <td><p class="section-desc mg-bottom-35">Delivering services requested by you; Measuring advertising efficacy; marketing; improving TreeAdvisor services</p></td>
+                        <td><p class="section-desc mg-bottom-35">Vendors</p></td>
+                        <td><p class="section-desc mg-bottom-35">Performing services on behalf of TreeAdvisor; processing and managing interactions and transactions; quality assurance; improving TreeAdvisor services; security; fraud prevention; marketing; debugging</p></td>
                         </tr>
                         </tbody>
                         </table>   
